@@ -1,0 +1,2190 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A7tv.ro" tvg-logo="https://i.imgur.com/240wAAr.jpg" group-title="România", A7TV
+https://a7tvlive.ro/A7TV/A7TV/chunklist_w1577138789.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/rNdWODH.jpg" group-title="România", Speranța TV
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/0dd00c080ff4cbe839a12c923610a55c/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="llbn.ro" tvg-logo="https://i.imgur.com/dpdR0fl.jpg" group-title="România", Loma Linda
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_1200_20240201T074949.m3u8
+
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-logo="https://i.imgur.com/i84en2H.jpg" group-title="România", Alfa&Omega TV
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-logo="https://i.imgur.com/a2ApGJO.png" group-title="România", Credo TV
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Geneza
+https://media2.intercer.net/cartiaudio/biblia/01.Geneza.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Exod
+https://media2.intercer.net/cartiaudio/biblia/02.Exod.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Leviticul
+https://media2.intercer.net/cartiaudio/biblia/03.Leviticul.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Numeri
+https://media2.intercer.net/cartiaudio/biblia/04.Numeri.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Deuteronom
+https://media2.intercer.net/cartiaudio/biblia/05.Deuteronomul.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Iosua
+https://media2.intercer.net/cartiaudio/biblia/06.Iosua.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Judecători
+https://media2.intercer.net/cartiaudio/biblia/07.Judecatori.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Rut
+https://media2.intercer.net/cartiaudio/biblia/08.Rut.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 1 Samuel
+https://media2.intercer.net/cartiaudio/biblia/09.1Samuel.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 2 Samuel
+https://media2.intercer.net/cartiaudio/biblia/10.2Samuel.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 1 Împărați
+https://media2.intercer.net/cartiaudio/biblia/11.1Imparati.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 2 Împărați
+https://media2.intercer.net/cartiaudio/biblia/12.2Imparati.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 1 Cronici
+https://media2.intercer.net/cartiaudio/biblia/13.1Cronici.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 2 Cronici
+https://media2.intercer.net/cartiaudio/biblia/14.2Cronici.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Ezra
+https://media2.intercer.net/cartiaudio/biblia/15.Ezra.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Neemia
+https://media2.intercer.net/cartiaudio/biblia/16.Neemia.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Estera
+https://media2.intercer.net/cartiaudio/biblia/17.Estera.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Iov
+https://media2.intercer.net/cartiaudio/biblia/18.Iov.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Psalmii partea 1
+https://media2.intercer.net/cartiaudio/biblia/19.Psalmi%20-cartea%201.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Psalmii partea 2
+https://media2.intercer.net/cartiaudio/biblia/19.Psalmi%20-cartea%202.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Psalmii partea 3
+https://media2.intercer.net/cartiaudio/biblia/19.Psalmi%20-cartea%203.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Psalmii partea 4
+https://media2.intercer.net/cartiaudio/biblia/19.Psalmi%20-cartea%204.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Psalmii partea 5
+https://media2.intercer.net/cartiaudio/biblia/19.Psalmi%20-cartea%205.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Proverbele lui Solomon
+https://media2.intercer.net/cartiaudio/biblia/20.Proverbe.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Eclesiastul
+https://media2.intercer.net/cartiaudio/biblia/21.Eclesiastul.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Cântarea Cântăriilor
+https://media2.intercer.net/cartiaudio/biblia/22.Cantarea%20Cantarilor.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Isaia
+https://media2.intercer.net/cartiaudio/biblia/23.Isaia.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Ieremia
+https://media2.intercer.net/cartiaudio/biblia/24.Ieremia.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Plângeriile lui Ieremia
+https://media2.intercer.net/cartiaudio/biblia/25.Plangerile%20lui%20Ieremia.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Ezechiel
+https://media2.intercer.net/cartiaudio/biblia/26.Ezechiel.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Daniel
+https://media2.intercer.net/cartiaudio/biblia/27.Daniel.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Osea
+https://media2.intercer.net/cartiaudio/biblia/28.Osea.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Ioel
+https://media2.intercer.net/cartiaudio/biblia/29.Ioel.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Amos
+https://media2.intercer.net/cartiaudio/biblia/30.Amos.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Obadia
+https://media2.intercer.net/cartiaudio/biblia/31.Obadia.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Iona
+https://media2.intercer.net/cartiaudio/biblia/32.Iona.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Mica
+https://media2.intercer.net/cartiaudio/biblia/33.Mica.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Naum
+https://media2.intercer.net/cartiaudio/biblia/34.Naum.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Habacuc
+https://media2.intercer.net/cartiaudio/biblia/35.Habacuc.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Țefania
+https://media2.intercer.net/cartiaudio/biblia/36.Tefania.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Hagai
+https://media2.intercer.net/cartiaudio/biblia/37.Hagai.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Zaharia
+https://media2.intercer.net/cartiaudio/biblia/38.Zaharia.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Maleahi
+https://media2.intercer.net/cartiaudio/biblia/39.Maleahi.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Evanghelia după Matei
+https://media2.intercer.net/cartiaudio/biblia/40.Matei.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Evanghelia după Luca
+https://media2.intercer.net/cartiaudio/biblia/42.Luca.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Evanghelia după Marcu
+https://media2.intercer.net/cartiaudio/biblia/41.Marcu.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Evanghelia după Ioan
+https://media2.intercer.net/cartiaudio/biblia/43.Ioan.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Faptele Apostolilor
+https://media2.intercer.net/cartiaudio/biblia/44.Fapte.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Romani
+https://media2.intercer.net/cartiaudio/biblia/45.Romani.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 1 Corinteni
+https://media2.intercer.net/cartiaudio/biblia/46.1Corinteni.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 2 Corinteni
+https://media2.intercer.net/cartiaudio/biblia/47.2Corinteni.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Galateni
+https://media2.intercer.net/cartiaudio/biblia/48.Galateni.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Efeseni
+https://media2.intercer.net/cartiaudio/biblia/49.Efeseni.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Filipeni
+https://media2.intercer.net/cartiaudio/biblia/50.Filipeni.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Coloseni
+https://media2.intercer.net/cartiaudio/biblia/51.Coloseni.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 1 Tesaloniceni
+https://media2.intercer.net/cartiaudio/biblia/52.1Tesaloniceni.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 2 Tesaloniceni
+https://media2.intercer.net/cartiaudio/biblia/53.2Tesaloniceni.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 1 Timotei
+https://media2.intercer.net/cartiaudio/biblia/54.1Timotei.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 2 Timotei
+https://media2.intercer.net/cartiaudio/biblia/55.2Timotei.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Tit
+https://media2.intercer.net/cartiaudio/biblia/56.Tit.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Filimon
+https://media2.intercer.net/cartiaudio/biblia/57.Filimon.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Evrei
+https://media2.intercer.net/cartiaudio/biblia/58.Evrei.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Iacov
+https://media2.intercer.net/cartiaudio/biblia/59.Iacov.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 1 Petru
+https://media2.intercer.net/cartiaudio/biblia/60.1Petru.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 2 Petru
+https://media2.intercer.net/cartiaudio/biblia/61.2Petru.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 1 Ioan
+https://media2.intercer.net/cartiaudio/biblia/62.1Ioan.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 2 Ioan
+https://media2.intercer.net/cartiaudio/biblia/63.2Ioan.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", 3 Ioan
+https://media2.intercer.net/cartiaudio/biblia/64.3Ioan.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Iuda
+https://media2.intercer.net/cartiaudio/biblia/65.Iuda.mp3
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Apocalipsa
+https://media2.intercer.net/cartiaudio/biblia/66.Apocalipsa.mp3
+
+
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/ZlSOHBg.jpg" group-title="HopeChannel", International
+https://videodelivery.net/1eaa18c55e2558a400eab00dbde2caca/manifest/stream_t1_r1080001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/AuO62QG.jpg" group-title="HopeChannel", Africa
+https://videodelivery.net/3dab4197cbdc656fa4a498285a3a4d67/manifest/stream_t1_r1080001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/Bd4sgIj.jpg" group-title="HopeChannel", Africa - Afrikaans
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/SaV8MVg.jpg" group-title="HopeChannel", Africa - Etiopia
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705148289/ei/ISuiZeyjBaKhi9oP65CckAU/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/810a934a7deeaad1/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D1168993344%3Bdur%3D3655.960%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1704993494521666/rqh/1/hls_chunk_host/rr1---sn-gqn-ung6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/yx/mm/31,29/mn/sn-gqn-ung6,sn-c0q7lns7/ms/au,rdu/mv/m/mvi/1/pl/52/initcwndbps/1967500/vprv/1/playlist_type/DVR/dover/13/txp/5319224/mt/1705126382/fvip/4/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRQIhAMkush5ShGM4Y-keSxo6XlZG6lKnDkJN8PGzRjMjVIXiAiB4vcOUo3gJ7gAacmRa124hpYpQEBD1bVerIn0lV9Kq1Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRAIgEnhB8nG1vyRInmSCz8lzlsEgVvfuj-sP1fIDtktAFnMCIFnvIZix3x36Bgonfyr5i4tA_zFGe11lQxe5OB-DrUek/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/yHTuN0T.jpg" group-title="HopeChannel", Africa - Ghana
+https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/stream_t1_r480001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/ITlqdZd.jpg" group-title="HopeChannel", Africa - Kenya
+https://videodelivery.net/0590f56b8092f8c130ee9fa7ebe782f7/manifest/stream_t1_r720001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/eQ9ZnSH.jpg" group-title="HopeChannel", Africa - Malawi
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705150854/ei/JjWiZe_ZKqbIi9oP36G82A8/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/9ae7dd1bfe335ab7/itag/232/source/youtube/requiressl/yes/ratebypass/yes/otfp/1/pfa/1/sgovp/clen%3D204273439%3Bdur%3D1663.440%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1668513092778763/rqh/1/hls_chunk_host/rr2---sn-gqn-ung6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/i2/mm/31,29/mn/sn-gqn-ung6,sn-c0q7lnz7/ms/au,rdu/mv/m/mvi/2/pl/52/initcwndbps/2300000/vprv/1/playlist_type/DVR/dover/13/txp/6216224/mt/1705128802/fvip/4/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,otfp,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRAIgAaRQHSnCVm262cAiddC7gzFYnJNqod9WM_eh63chtxQCIFGVEOYJvMDx_QzKtUizhpqCrvJB0dToUtT-tXYT-BoC/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRQIhAPpnopKyIiWmRFQNvXWBccJ_H5XSeCNvuj0W6w8L9mMiAiA2zU2z9xxAsF4IY0f0QFHvHIsQCEKxdzVl_FjLV_fnYw%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/95Nxerv.jpg" group-title="HopeChannel", Africa - Namibia
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/9FUFj5L.jpg" group-title="HopeChannel", Africa - Ocean Indien
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705150535/ei/5zOiZc2QCKWDi9oP_OiSuAk/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/4275cb39f294636f/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D287377907%3Bdur%3D1269.960%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1675743213899762/rqh/1/hls_chunk_host/rr7---sn-gqn-ungs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/nX/mm/31,29/mn/sn-gqn-ungs,sn-c0q7lnly/ms/au,rdu/mv/m/mvi/7/pl/52/initcwndbps/2031250/vprv/1/playlist_type/DVR/dover/13/txp/6216224/mt/1705128066/fvip/2/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRQIhAKC3JRKOf9HfEQE8xLqYJ4a_HphpD23f2hNXziLC_dV7AiA_VvbF35DGA-9kWeQ2OZ1hgDbDyb2df3_ctnWu-3hAcQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRQIgRvKHAxQXbqaJWKF8CzTc83ZHO01NN-HSirMZLCL1kOoCIQCkS6YetQywTpCJqbUVbzFgcltErrsVquxfTevhCLC1hw%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/QgdysU7.jpg" group-title="HopeChannel", Africa - Tanzania
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705152056/ei/2DmiZc2YJ73Hi9oPtICp-AY/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/2035bfc578242a05/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D2642710893%3Bdur%3D8885.666%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1705036312881267/rqh/1/hls_chunk_host/rr2---sn-gqn-ung6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/r3/mm/31,29/mn/sn-gqn-ung6,sn-c0q7lnse/ms/au,rdu/mv/m/mvi/2/pl/52/force_finished/1/initcwndbps/2173750/vprv/1/playlist_type/CLEAN/dover/13/txp/7209224/mt/1705129983/fvip/5/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRgIhALpR0crRAu8JpDc6-LD54yvJ6KCjxGF1UFxPZ622CP3zAiEAlj_QRf307NvoXfYvwAtvWjkH20dT2lJme0Xwefat4wg%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRQIgB1w_TwKdGSeQoQxwm3m_8njH2VCAt5sp7zx84ur4mUECIQCHSxWrRAkoZVGjg8gSDfJEhz_GGJeVzPWmxVK9QokrEA%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/6WRFhyn.jpg" group-title="HopeChannel", Africa - Uganda
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/08b48011ee25dc5be997adbfd936eef6/manifest/stream_t1_r720001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/5ELicIn.jpg" group-title="HopeChannel", Africa - Zambia
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705152565/ei/1TuiZeDJA5SDi9oPp5G-4A4/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/cf3fc911e2b6d6cd/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D2003488676%3Bdur%3D5311.466%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1700701150616871/rqh/1/hls_chunk_host/rr1---sn-gqn-ung6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/Ta/mm/31,29/mn/sn-gqn-ung6,sn-c0q7lnsl/ms/au,rdu/mv/m/mvi/1/pl/52/force_finished/1/initcwndbps/2060000/vprv/1/playlist_type/CLEAN/dover/13/txp/7209224/mt/1705130468/fvip/1/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRQIgYQf6tfB4EEDBPSOIzvmgrRJeTi3Gi0tmx5R62KKGKZECIQCpvGQyONOAfjn3L9ZP5hPjbi7hsGf-YBCc85-fDmL2Ng%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRQIhAOqFMLQWWPSXTF-OB_rs304O2l1c0bhjwOoRJco8WM1zAiBwpH1xtAhxWw9ywUl2ege-tZVwF_Oox4bGFTQeYee9NA%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/XO5sefC.jpg" group-title="HopeChannel", Africa - Zimbabwe
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705152824/ei/2DyiZZ3_NrXR6dsPpMGMyA8/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/9d06c406cc8c8735/itag/312/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D5031350004%3Bdur%3D13969.100%3Bgir%3Dyes%3Bitag%3D299%3Blmt%3D1694019788547244/rqh/1/hls_chunk_host/rr4---sn-gqn-ungs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/R6/mm/31,29/mn/sn-gqn-ungs,sn-c0q7lnsl/ms/au,rdu/mv/m/mvi/4/pl/52/force_finished/1/initcwndbps/2121250/vprv/1/playlist_type/CLEAN/dover/13/txp/7209224/mt/1705130948/fvip/2/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRAIgO-PhmBGyaCiK8vruPAHTtu3Y_MOU9Ugkjc0C0CGVOPACIC35dZihSYchH_PlDt_ONRZsew_yd8dfMpSWgjmtAZgz/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRQIhAJ_yEeK3lB0mNlokOo1yw64H7BowY9kU-vEHC3BCJzf9AiBz9JFyPgjaQHSs4FC4X5quect98wCosdQ3SFF60-QHYg%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/at83epk.jpg" group-title="HopeChannel", Africa - Mozambique
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705153856/ei/4ECiZeqfDo2_i9oPnYCO4Ao/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/346eecc34beaba35/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D4449209104%3Bdur%3D20719.530%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1694887448430410/rqh/1/hls_chunk_host/rr3---sn-gqn-ung6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/p9/mm/31,29/mn/sn-gqn-ung6,sn-c0q7lnsl/ms/au,rdu/mv/m/mvi/3/pcm2cms/yes/pl/52/force_finished/1/initcwndbps/1900000/vprv/1/playlist_type/CLEAN/dover/13/txp/5309224/mt/1705131909/fvip/4/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRgIhAI3iph6O1MdK952eYsWxlhdE0LGdrl_C17h7bs3-QqWSAiEAvgcg2SZe7XyqsWElO3yQf-gPtv5OQ54h7V53d35BY0A%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,initcwndbps/lsig/AAO5W4owRgIhAPJOHbF2lhzzUVbzES9tQxtjMfs6tA4m3j9EwFFmnz77AiEAtNHTwpJCke9_Y0kWsLB5Lk5enOymmnxpg2AlmjnQqAA%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/AS0C4nd.jpg" group-title="HopeChannel", Nord America
+https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/stream_t1_r1080001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/i5LHUNE.jpg" group-title="HopeChannel", Nord America - Canada
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/Y1C2pJx.jpg" group-title="HopeChannel", Nord America - Deaf
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/YatBFxD.jpg" group-title="HopeChannel", Nord America - Esperanza
+https://videodelivery.net/a23831aa01c4a0fd802360b889ea96ed/manifest/stream_t1_r1080001.m3u8
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/EoXVK0R.jpg" group-title="HopeChannel", Inter-America - English
+https://videodelivery.net/5dc01951fa0b9a57997e8be5cc50b29b/manifest/stream_t1_r1080001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/YC3MJiM.jpg" group-title="HopeChannel", Interamerica - Espanol
+https://videodelivery.net/75bc18929102141938b334b01793ca3e/manifest/stream_t1_r1080001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/QRt8OaP.jpg" group-title="HopeChannel", Interamerique - French
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/3y25WdX.jpg" group-title="HopeChannel", South America - Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/IVpucWi.jpg" group-title="HopeChannel", South America - Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/1YgMYBK.jpg" group-title="HopeChannel", Asia - Al-waad
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/qv0qVzQ.jpg" group-title="HopeChannel", Asia - Chinese
+https://videodelivery.net/07c709813199692f475a30a22afa1c5a/manifest/stream_t1_r1080001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/gUbpMQh.jpg" group-title="HopeChannel", Asia - Central Asia
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705157435/ei/206iZd6vIuuI6dsP_Y-UwAI/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/086c7512df519328/itag/232/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D377623893%3Bdur%3D4236.633%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1588609746638828/rqh/1/hls_chunk_host/rr4---sn-gqn-ungs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/4T/mm/31,29/mn/sn-gqn-ungs,sn-c0q7lnse/ms/au,rdu/mv/m/mvi/4/pcm2cms/yes/pl/52/force_finished/1/initcwndbps/1920000/vprv/1/playlist_type/CLEAN/dover/13/txp/7316222/mt/1705135514/fvip/5/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRAIgWydhoL-iTcKCGKzSro1gC8TXFGXtzulwVAWyIrBVCswCIBVNv9hmReeWyrvFdRrCkEESqOMfX7esSnR-ynIvL3Wk/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,initcwndbps/lsig/AAO5W4owRgIhALvKqL8wi2Kr-PWan27yJV7ZKlfXf1Fywi2eaI5n2CxDAiEAid9A62vxFArnNPKCHAEpwwzN1T3pOFJ4DLXda03FvME%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/GpC2IVL.jpg" group-title="HopeChannel", Asia - India
+https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/stream_t1_r1080001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/EmqxSnj.jpg" group-title="HopeChannel", Asia - Indonesia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705810924/ei/jEesZfbmL_egi9oPpdK7gAg/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/324732c55f9783de/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr7---sn-gqn-ungs.googlevideo.com/mh/Yx/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/7/pl/40/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1025000/vprv/1/go/1/mt/1705789017/fvip/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANfshGJ-IWDtFeuRRkQKPHKoRUuyJDxSXxSlxn3dDuUvAiEAhnuxCd8aIxda-mJaIEhRtugnUVvw76NtQzWTMeoNY7M%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRAIgN4vidtxL9M98ZLxTOsIB_mCMaBETalx6v8fU7zJS90YCIFX2K7vvT2n_e4QRg4GX2h2b39sJMiamIXZomMQ5vizz/file/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/qntBdVu.jpg" group-title="HopeChannel", Asia - Israel
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705810840/ei/OEesZerYE4aUi9oPvNai4Ac/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/0b8d7188142297fe/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr2---sn-gqn-ung6.googlevideo.com/mh/TV/mm/31%2C29/mn/sn-gqn-ung6%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/2/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1198750/vprv/1/go/1/mt/1705788778/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCchiLpApwQ30RZ6AAdFOSPKmuz8NJ_wW1BNUtW516VsCIC8BzC9RcqSjAwIcOnQ_-GkhHmM84fcrXYwxISKLI8h8/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRQIgW8Fs1egg8ukW8jlZDyyp5Q0YGya_0xU8SN8d0H2gxpACIQCQeVbmriloe-1yTQ_onuluVvsDB45BV66bwoZCiVuiFg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/s9IHMJo.jpg" group-title="HopeChannel", Asia - Japan
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/LAOtNk3.jpg" group-title="HopeChannel", Asia - Korea	
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705810734/ei/zkasZeeiGqHCi9oP0JiU-A0/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/503de0dafac6c867/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr3---sn-gqn-ung6.googlevideo.com/mh/X5/mm/31%2C29/mn/sn-gqn-ung6%2Csn-c0q7lnsl/ms/au%2Crdu/mv/m/mvi/3/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1198750/vprv/1/go/1/mt/1705788778/fvip/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL_J6JcviXnMWrK5WaHhOxApnRSAnAShO4Mol9J0pVglAiAplpawJWT13PKO0m4mOEZzMB1eEKP8q2xHMeFL5c5zmw%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRQIhAIYa9h45sDhtFyOuhWXbCzmdrRBcY2rq8Q2GOMKrtfVPAiBSuevvaR5gYPBVZ6V-AC7kzn-YxQpkcsdlU-nzwM5sww%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/mCyK026.jpg" group-title="HopeChannel", Asia - Philippines
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/e9a0f1b659e4a6052fa798846914a4f7/manifest/stream_t1_r720001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/WM6NDGr.jpg" group-title="HopeChannel", Asia - Singapore
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705810432/ei/oEWsZfSRH5XSi9oPzKeTgA0/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/2b4850063ecb6ad8/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr7---sn-gqn-ungs.googlevideo.com/mh/Yb/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/7/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1015000/vprv/1/go/1/mt/1705788539/fvip/2/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLTeRUxtTMc3CFmd16IYNhm09TRxoZlzk_Hzy4w4NVJICIBjOf5zNl5vLSNcZbqOEq8E5Sw72EIN6IOqd3ol0U6PF/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRgIhAIWm9wPRB2IDjbQe6hUjn2ribz8v2jFTnAzik8bxhzsIAiEAt3YIoXlzCqQxcGulITDMrDaCmgDRVQGjIuFQ4v84yko%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/pHdehDD.jpg" group-title="HopeChannel", Asia - Southeast Asia
+https://videodelivery.net/5da0759be00c37e8acaac650284512c9/manifest/stream_t1_r1080001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/TUunkrw.jpg" group-title="HopeChannel", Asia - Sri Lanka
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/0apzo1U.jpg" group-title="HopeChannel", Europe - Albania
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705808756/ei/FD-sZfKCJvPL6dsPypuDqAs/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/2b1cd7be3400a803/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr2---sn-gqn-ungs.googlevideo.com/mh/tH/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnly/ms/au%2Crdu/mv/m/mvi/2/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/965000/vprv/1/go/1/mt/1705786864/fvip/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKrXiFTBZT6B1O4xJqU9y_Nq_JCHYdIhY5gnuXy105D0AiEA3AAsG0tXQOcHE8XbulQE0YzzCBwMEiLKszWDr3pHW_Q%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRAIgJhp48qFYOFsnu_TM5KX7z35TRMC4n8vDgq_ql1O3VIoCIBbS-S7GdFrexrV0W_1FZ_6XS67-5z2yekhzmCHEJQpW/file/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/Zt5cCt1.jpg" group-title="HopeChannel", Europe - Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/chunklist_w1504558387_b5192000_slbg.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/m4Ljiux.jpg" group-title="HopeChannel", Europe - Danmark
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/fx421tW.jpg" group-title="HopeChannel", Europe - Finland
+https://3vod-adaptive.akamaized.net/exp=1705160645~acl=%2F31a69405-2022-473e-9d80-69d0cf59d30a%2F%2A~hmac=679c93a4e2ea251b44314049fd2073f9801e9ea6ada4896ed0dfe1ffc08a2c81/31a69405-2022-473e-9d80-69d0cf59d30a/sep/video/00b467e5,86fa628c,a9f1ba83,f961e483,fe058755/audio/5bb36ce9,d39a793d,dc731239/dash-video.mp4
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/QIiGNkV.jpg" group-title="HopeChannel", Europe - France
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/JofSZ67.jpg" group-title="HopeChannel", Europe - Norge
+http://media1.adventist.no:1935/live/hope3/chunklist_w1689796912.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/8zk1122.jpg" group-title="HopeChannel", Europe - Polska
+https://42vod-adaptive.akamaized.net/exp=1705159086~acl=%2F9d0fb63a-a49f-4494-b1f7-ec910c8f9989%2F%2A~hmac=b187008165be06bac821bc8cc8754c491983494a7e3ad987822592ae46f01ae4/9d0fb63a-a49f-4494-b1f7-ec910c8f9989/sep/video/3cd11e02,a2aa2997,e78bf381,f7ee6ba7/dash-video.mp4
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/NJxeCmz.jpg" group-title="HopeChannel", Europe - Sweden
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/mOPxuJM.jpg" group-title="HopeChannel", Europe - Island
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705810149/ei/hUSsZYwlscLp2w-sp66IDA/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/fa7403fd14910c47/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr3---sn-gqn-ung6.googlevideo.com/mh/CC/mm/31%2C29/mn/sn-gqn-ung6%2Csn-c0q7lnsl/ms/au%2Crdu/mv/m/mvi/3/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1151250/vprv/1/go/1/mt/1705787821/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSWlB4PUK485dXB7NfniT--GfJ939ClAWwfTyU9qEN4MCIA0PsAZrrxaRst6loAn0-wsXY24NPkyS5RdlmmAT8zDA/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRgIhAOEuFvrZFs3H85s2BXjgl5ztfqgNqSwQjp-6aVZacFvrAiEA7GIqKd6VnPy4AZWVDtd7qbX_wbBOdc3WckXNYveQ7po%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/YfpsYi5.jpg" group-title="HopeChannel", Europe - Ceska
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/QZGSzip.jpg" group-title="HopeChannel", Europe - Croatia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705808447/ei/3j2sZeSmOsLc1gKVr7OIDQ/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/a49f7417b0b135c1/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr8---sn-gqn-ungs.googlevideo.com/mh/J9/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lns7/ms/au%2Crdu/mv/m/mvi/8/pl/40/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/987500/vprv/1/go/1/mt/1705786617/fvip/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbwCXffwm4gjMnlT9-s_8ePsRNvsSl2aE-kFQhnU9_9wCIAurhFSqq42eoo71sc8dN_Mvlt2h4DNCJCup4_yQ0jpK/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRAIgO7R64SDwGNsNkStTBH2mZOZDLn3bMJ-SZRMUEiAxXXcCIHML7vsUY9UMQWHY3FFCdwgdIuj5WzUDZa-y3yeHOxbu/file/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/Oimzfu0.jpg" group-title="HopeChannel", Europe - Italia
+https://avventisti.tv:1935/AvventistiUICCA/LiveHLS/chunklist_w1838277114.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/YxN34IJ.jpg" group-title="HopeChannel", Europe - Germany
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/stream_t1_r1080001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/A76d0Uw.jpg" group-title="HopeChannel", Europe - UK
+https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/stream_t1_r1080001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/fzJ9KXV.png" group-title="HopeChannel", Europe - Portugal
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/jxlWJj6.jpg" group-title="HopeChannel", Europe - Spain
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/mIE7wdR.png" group-title="HopeChannel", Europe - Hungary
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705807899/ei/uzusZbrXJbLMi9oPtuqU2AE/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/86fd96646a524899/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr7---sn-gqn-ungs.googlevideo.com/mh/vD/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnse/ms/au%2Crdu/mv/m/mvi/7/pcm2cms/yes/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/981250/vprv/1/go/1/mt/1705786135/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQ5P1s_73_il26rZxCSaN9Fm6kzQvp_G5s1C9_6h1sGQCIFxY_AP_k2ZM9wOHfSh0XLwA_uHk7JrxOlkH7Uc4rk_W/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRgIhALXCWUnkLANHq6vajWa8D9Ct1qBa6yuxuUyBEqXZ9AOSAiEAio18kSNbY0W_rWgOg_flUt6OWNMjmfqviK7rL4xGAkY%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/rNdWODH.jpg" group-title="HopeChannel", Europe - Romania
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/0dd00c080ff4cbe839a12c923610a55c/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/PlUraN7.jpg" group-title="HopeChannel", Europe - Russia
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/CPkrbPH.jpg" group-title="HopeChannel", Europe - Slovenia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705809286/ei/JkGsZbS1BJ6Wi9oPt7uO6AE/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/bc8fd9749c7525a7/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr8---sn-gqn-ungs.googlevideo.com/mh/dN/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/8/pl/40/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/960000/vprv/1/go/1/mt/1705787344/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOVBfzMCw1i4B5Pb1X5dXUSZ3pV00ia6z8939oM30TbhAiBkyiwq3_Q5Y0POkE2mByNSdvqV30lEdqfF8JCJ70SEaA%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRgIhAPjaw30u-AApphxjUDI3mxr9WCfsPWvLyls7Rvn3UkrSAiEAsy4TFp2WvpmbDlU9hrfpKRM1ReRp84tbnIHLq330uAo%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/RvyJtmr.jpg" group-title="HopeChannel", Europe - Ukraine
+https://videodelivery.net/d0ee49a1cfc0ebd7020fcaa144fc7475/manifest/stream_t1_r720001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/xOGumEb.jpg" group-title="HopeChannel", Oceania - American Samoa
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705164538/ei/mmqiZfPDJ4eki9oP1oKnqAo/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/5a349642acaf7f19/itag/270/source/youtube/requiressl/yes/ratebypass/yes/otfp/1/pfa/1/sgovp/clen%3D2299602455%3Bdur%3D11391.765%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1654981568640870/rqh/1/hls_chunk_host/rr6---sn-gqn-ungs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/v1/mm/31,29/mn/sn-gqn-ungs,sn-c0q7lnly/ms/au,rdu/mv/m/mvi/6/pl/52/force_finished/1/initcwndbps/1867500/vprv/1/playlist_type/CLEAN/dover/13/txp/7216224/mt/1705142704/fvip/1/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,otfp,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRQIgNpMD5HUHFICQy4CK2PzC6RW9uguFtbH4bfwWzpeIUbgCIQDcf_X4GYrYNUDfN54xG0FUaodgsdIXR5-VmmQNa5j3pg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRgIhAKe4a5x7kQViClXs34UMh40oM-aiGKXioQDD6vXK2DpMAiEA5AFSzVzren1nYKFxrGQyQgUwQCBOYa-qGgTSvQhO2L0%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/VLWp7iH.jpg" group-title="HopeChannel", Oceania - Australia
+https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/stream_t1_r1080001.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/xUIyw6Q.jpg" group-title="HopeChannel", Oceania - Cook Island
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/H3yxdHa.jpg" group-title="HopeChannel", Oceania - Fiji
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/WPLKTYd.jpg" group-title="HopeChannel", Oceania - New Zealand
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/e46cdf99f97b45e597a5a608b908a44a/chunklist_b4628000.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/pRsvXe4.jpg" group-title="HopeChannel", Oceania - Samoa
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/pZ7wgjX.png" group-title="HopeChannel", Oceania - Solomon Islands
+
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/69k9FFN.jpg" group-title="HopeChannel", Oceania - Tonga
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/vPU0hH4.jpg" group-title="Internațional", 3ABN
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+
+#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/0y80bQd.jpg" group-title="Internațional", 3ABN Proclaim!
+https://3abn-live.akamaized.net/hls/live/2010549/Proclaim/master.m3u8
+
+#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/fG2trfF.jpg" group-title="Internațional", 3ABN Dare to Dream
+https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
+
+#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/zRcof07.jpg" group-title="Internațional", 3ABN International
+https://3abn-live.akamaized.net/hls/live/2010544/International/HQs/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/xX8UK6o.jpg" group-title="Internațional", 3ABN Praise HIM
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+
+#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/tOxA2pp.jpg" group-title="Internațional", 3ABN Kids
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+
+#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/HohCoNP.jpg" group-title="Internațional", 3ABN Latino
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
+
+#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/k2kWsIE.jpg" group-title="Internațional", 3ABN Russia
+https://3abn-live.akamaized.net//hls/live/2010548/Russia/master.m3u8
+
+#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/P9k95IZ.jpg" group-title="Internațional", 3ABN Francais
+https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
+
+#EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/GOq2rRf.jpg" group-title="Internațional", Loma Linda - His Word
+https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream_2250_20240117T022241.m3u8
+
+#EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/3IIG36Q.jpg" group-title="Internațional", Loma Linda - His Light
+https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream_2250_20240117T021524.m3u8
+
+#EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/Mv3hupE.jpg" group-title="Internațional", Loma Linda - Smart Life Style
+https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream_2250_20240104T171132.m3u8
+
+#EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/y6TeH6q.jpg" group-title="Internațional", Loma Linda - Arabic
+https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream_1200_20240104T171322.m3u8
+
+#EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/AD27Bi5.jpg" group-title="Internațional", Loma Linda - Chinese
+https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream_1250_20231215T022941.m3u8
+
+#EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/FwyiRYB.jpg" group-title="Internațional", Loma Linda - Korean
+https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream_1250_20231215T023518.m3u8
+
+#EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/XrJymMS.jpg" group-title="Internațional", Loma Linda - Latino
+https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream_1200_20231130T130532.m3u8
+
+#EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/dpdR0fl.jpg" group-title="Internațional", Loma Linda - Romanian
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_1200_20240201T074949.m3u8
+
+#EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/MtzYEfS.jpg" group-title="Internațional", Loma Linda - South Asia
+https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream_1200_20240104T171304.m3u8
+
+#EXTINF:-1 tvg-id="safe" tvg-logo="https://i.imgur.com/gMdNrsq.png" group-title="Internațional", Safe TV
+	
+https://hls-live-web-media.cdn01.net/default/stream_10250.m3u8?6l2BMT5JHovCOIgLCY4tz4yi6swCesmVbQF3ZK5Ffrkq7Z4zvS9Zo_oLDvRTCDCQ8SQaNGJKa4monFYe4CdcLNai2OfPS3FOdpPz0_7NeSa178HDHaW-BOZ_4n7vfwshwSFkwvPgdAl5Dnr6XYME2_n4_WhNxE9Rgu1StJIAzeHmkCrNEA3qtQt7vFzJcYwRpXvdJ8xSxkru&channel_id=10250&source=othersites&device_id=4523690541-a534fa7bb45a5ee35faff21cacceb40e&lcp=2&client_id=869065316981851594&play_id=1709920131117755
+
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/kyltIQp.png" group-title="Internațional", TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/chunklist_w1915005982.m3u8
+
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/xafBx2G.png" group-title="Internațional", Light Channel Bulgaria
+https://streamer1.streamhost.org/salive/hungarian/chunklist_w78367932.m3u8
+
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/EH75UpK.png" group-title="Internațional", Light Channel Germany
+https://streamer1.streamhost.org/salive/lctvde/chunklist_w1203233758.m3u8
+
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/mv5VIUZ.png" group-title="Internațional", Light Channel Hungary
+https://streamer1.streamhost.org/salive/hungarian/chunklist_w1838931908.m3u8
+
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/enygbEe.jpg" group-title="Internațional", Light Channel Portugal
+https://streamer.terceiroanjo.com/salive/GMI3anjom/chunklist_w1625110522.m3u8
+
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/9oKcM9E.jpg" group-title="Internațional", Light Channel Espana
+https://streamer1.streamhost.org/salive/GMIredadvenirHD/chunklist_w323722387.m3u8
+
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/S1HNdjH.jpg" group-title="Internațional", Smile of the child
+https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/live-audio_1=96000-video=1000000.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/hJs7Hco.jpg" group-title="Filme cu Isus",  Son of God [2014]
+https://archive.org/download/Filme_cu_Isus/Son%20of%20God%202014.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/UrRWgMr.jpg" group-title="Filme cu Isus", Jesus - The Bible  [2013]
+https://archive.org/download/Filme_cu_Isus/Jesus%20-%20Bible%202013.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/WtMnlCu.jpg" group-title="Filme cu Isus", Patimile lui Hristos  [2004]
+https://archive.org/download/Filme_cu_Isus/Patimile%20lui%20Hristos%202004%20sub.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/BCgruVI.jpg" group-title="Filme cu Isus", Evanghelia după Ioan  [2003]
+https://archive.org/download/Filme_cu_Isus/Evanghelia%20dup%C4%83%20Ioan%202003~1.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/jSzNSjW.jpg" group-title="Filme cu Isus", Isus - Povestiri pentru copii  [2000]
+https://ia601005.us.archive.org/14/items/Filme_cu_Isus/Isus%20-%20pentru%20copii%202000.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/36gPwHy.jpg" group-title="Filme cu Isus", Isus [1999]
+https://ia601005.us.archive.org/14/items/Filme_cu_Isus/Isus%201999.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/GNXBNun.jpg" group-title="Filme cu Isus", Biblia vizuală - Evanghelia după Matei [1993]
+https://ia601005.us.archive.org/14/items/Filme_cu_Isus/1993%20-%20Viata%20Lui%20Isus%20Hristos%20-%20Evanghelia%20dupa%20Matei%201993.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/AW1xqRS.jpg" group-title="Filme cu Isus", Viața lui Isus [1979]
+https://ia801005.us.archive.org/14/items/Filme_cu_Isus/Via%C8%9Ba%20lui%20Isus%20%281979%2C%20Biografie%2C%20dram%C4%83%2C%20istorie%29%20HD%201080p.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/a2udbNg.jpg" group-title="Filme cu Isus", Isus din Nazaret [1977]
+https://ia601207.us.archive.org/0/items/isus-din-nazaret-1977-full/Isus%20din%20Nazaret%201977%20full.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/mWhcLCP.jpg" group-title="Filme cu Isus", The Greatest Story Ever Told [1965]
+https://ia801005.us.archive.org/14/items/Filme_cu_Isus/The%20Greatest%20Story%20Ever%20Told%201965.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/dJgj9pD.jpg" group-title="Filme cu Isus", Il Vangelo secondo Matteo [1964]
+https://ia801005.us.archive.org/14/items/Filme_cu_Isus/Il%20Vangelo%20secondo%20Matteo%201964.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/916n74X.jpg" group-title="Filme cu Isus", Kings of kings [1961]
+https://ia601005.us.archive.org/14/items/Filme_cu_Isus/Kings%20of%20kings%201961.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/MohgUlx.jpg" group-title="Filme cu Isus", From the Manger To the Cross [1912]
+https://ia601005.us.archive.org/14/items/Filme_cu_Isus/From%20the%20Manger%20To%20the%20Cross%201912.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/rv1XnNw.jpg" group-title="Filme cu Isus", The Passion Play Life and Death of Christ [1903]
+https://ia801005.us.archive.org/14/items/Filme_cu_Isus/The%20Passion%20Play%20Life%20and%20Death%20of%20Christ%201903.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/UrRWgMr.jpg" group-title="Biblia [serial 2013]", Începutul
+https://archive.org/download/biblia-serial-2013/01%20Inceputul.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/UrRWgMr.jpg" group-title="Biblia [serial 2013]", Exodul
+https://archive.org/download/biblia-serial-2013/02%20Exodul.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/UrRWgMr.jpg" group-title="Biblia [serial 2013]", Patria
+https://archive.org/download/biblia-serial-2013/03%20Patria.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/UrRWgMr.jpg" group-title="Biblia [serial 2013]", Împărăția
+https://archive.org/download/biblia-serial-2013/04%20Imparatia.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/UrRWgMr.jpg" group-title="Biblia [serial 2013]", Supraviețuirea
+https://archive.org/download/biblia-serial-2013/05%20Supravietuirea.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/UrRWgMr.jpg" group-title="Biblia [serial 2013]", Speranța
+https://archive.org/download/biblia-serial-2013/06%20Speranta.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/UrRWgMr.jpg" group-title="Biblia [serial 2013]", Misiunea
+https://archive.org/download/biblia-serial-2013/07%20Misiunea.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/UrRWgMr.jpg" group-title="Biblia [serial 2013]", Trădarea
+https://archive.org/download/biblia-serial-2013/08%20Tradarea.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/UrRWgMr.jpg" group-title="Biblia [serial 2013]", Pasiunea
+https://archive.org/download/biblia-serial-2013/09%20Pasiunea.mp4
+
+#EXTINF:-1 tvg-id="ViataluiIsus" tvg-logo="https://i.imgur.com/UrRWgMr.jpg" group-title="Biblia [serial 2013]", Curajul
+https://archive.org/download/biblia-serial-2013/10%20Curajul.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-id="Filme" tvg-logo="https://i.imgur.com/kDrYs6a.jpg" group-title="Filme profetice",Tell the world [2016]
+https://ia803008.us.archive.org/26/items/telltheworldsubro/Tell%20the%20World%20sub%20ro.mp4
+
+#EXTINF:-1 tvg-id="Filme" tvg-logo="https://i.imgur.com/kDrYs6a.jpg" group-title="Filme profetice",Tell the world [2016] Multilingv
+https://archive.org/download/tell-the-world/Tell%20the%20World%20-%20English.mkv
+
+#EXTINF:-1 tvg-id="Filme" tvg-logo="https://i.imgur.com/VMr99Pk.jpg" group-title="Filme profetice",Ultima bătălie [2006]
+https://ia803005.us.archive.org/32/items/ultimabatalie/Ultima%20batalie.mp4
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Filme" tvg-logo="https://i.imgur.com/zSnzgcQ.jpg" group-title="Filme", Masada [1981]
+https://archive.org/download/masada-1981-full/Masada%201981%20Full.mp4
+
+#EXTINF:-1 tvg-id="Filme" tvg-logo="https://i.imgur.com/0fYgO9x.jpg" group-title="Filme", Ben Hur [1907]
+https://archive.org/download/ben-hur-2003_20240126/Ben%20Hur%201907%20sub.mp4
+
+#EXTINF:-1 tvg-id="Filme" tvg-logo="https://i.imgur.com/j8FoiDA.jpg" group-title="Filme", Ben Hur [1925]
+https://archive.org/download/ben-hur-2003_20240126/Ben%20Hur%201925%20sub.mp4
+
+#EXTINF:-1 tvg-id="Filme" tvg-logo="https://i.imgur.com/risROua.jpg" group-title="Filme", Ben Hur [1959]
+https://archive.org/download/ben-hur-2003_20240126/Ben%20Hur%201959%20sub.mp4
+
+#EXTINF:-1 tvg-id="Filme" tvg-logo="https://i.imgur.com/Iu8U4kb.jpg" group-title="Filme", Ben Hur [2016]
+https://archive.org/download/ben-hur-2003_20240126/Ben%20Hur%202016%20sub.mp4
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Filme" tvg-logo="https://i.ytimg.com/vi/cEFF7NLLZBo/hqdefault.jpg" group-title="Documentare", Cine sunt adventiștii
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709393799/ei/J_PiZenMH8qSi9oP2fCFwAc/ip/2a02%3A2f08%3Ad20b%3Ae300%3Afd04%3Ab235%3Ad9ae%3Aecde/id/704145ecd2cb641a/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr4---sn-gqn-ungs.googlevideo.com/mh/fn/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnsl/ms/au%2Crdu/mv/m/mvi/4/pcm2cms/yes/pl/36/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1382500/vprv/1/go/1/mt/1709371742/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM_mdRf2A41tAtsLZ8wuh3Hb9hxW0JGaMTXXqJcaLFEiAiEAsSCmwJ9JqFO8Ud1UGQXvGZ-nuvzfpEj68puUiAQczK4%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps/lsig/APTiJQcwRAIgJrRgSyyTYvYhbpTTOws0tHvrwl0vbGAbrz2zLrlYX-ICIGynYKbXYBsGY8Byq22plbIHOYs82Hk4iOYs2tcNUSn7/file/index.m3u8
+
+#EXTINF:-1 tvg-id="Filme" tvg-logo="https://i.imgur.com/0vbkx77.jpg" group-title="Documentare", Dumnezeul minunilor
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709394180/ei/pPTiZeuvM7iii9oPxpG64As/ip/2a02%3A2f08%3Ad20b%3Ae300%3Afd04%3Ab235%3Ad9ae%3Aecde/id/6b7c7839b9e945c3/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr3---sn-gqn-ung6.googlevideo.com/mh/2X/mm/31%2C29/mn/sn-gqn-ung6%2Csn-c0q7lnse/ms/au%2Crdu/mv/m/mvi/3/pl/36/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1418750/vprv/1/go/1/mt/1709372233/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgM-neBP0zU-9matzJG92iGBsbYyLXVSesjfzsfjD4jAQCIQDb0nOvlRdbeSyieb_TxkklAT14ttQCNQcAK25zFd34zg%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/APTiJQcwRgIhAOpK9HgLITN_bdJ-NJQbqC3txAvlEKxwiZ0VfHrj0MdFAiEAmG_qdqPP9N3TOjILUd00w9oTZ1U20AOqek4_eN46UX4%3D/file/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="animatii" tvg-logo="https://i.imgur.com/zVWFSJC.jpg" group-title="Animații", Iosif - Regele viselor [2000]
+https://archive.org/download/ben-hur-2003_20240126/Ben%20Hur%202003.mp4
+
+#EXTINF:-1 tvg-id="animatii" tvg-logo="https://archive.org/download/ben-hur-2003_20240126/Ben%20Hur%202003.jpg" group-title="Animații", Ben Hur [2003]
+https://archive.org/download/ben-hur-2003_202401/Ben%20Hur%202003.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 01 Începutul
+https://ia601007.us.archive.org/18/items/05sosestemireasa/01%20Inceputul.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 02 Păzitorul fratelui meu
+https://ia801007.us.archive.org/18/items/05sosestemireasa/02%20Pazitorul%20fratelui%20meu.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 03 Potopul
+https://ia801007.us.archive.org/18/items/05sosestemireasa/03%20Potopul.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 04 Proba
+https://ia801007.us.archive.org/18/items/05sosestemireasa/04%20Proba.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 05 Sosește mireasa
+https://ia801007.us.archive.org/18/items/05sosestemireasa/05%20Soseste%20mireasa.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 06 Necazuri mari
+https://ia801007.us.archive.org/18/items/05sosestemireasa/06%20Necazuri%20mari.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 07 Visul se împlinește
+https://ia801007.us.archive.org/18/items/05sosestemireasa/07%20Visul%20se%20implineste.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 08 Toiagul minunat
+https://ia801007.us.archive.org/18/items/05sosestemireasa/08%20Toiagul%20minunat.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 09 Acele trâmbițe minunate
+https://ia801007.us.archive.org/18/items/05sosestemireasa/09%20Acele%20trambite%20minunate.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 10 Ulcioarele de foc
+https://ia801007.us.archive.org/18/items/05sosestemireasa/10%20Ulcioarele%20de%20foc.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 11 Samson cel puternic
+https://ia801007.us.archive.org/18/items/05sosestemireasa/11%20Samson%20cel%20puternic.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 12 Întâiul crăciun
+https://ia801007.us.archive.org/18/items/05sosestemireasa/12%20Intaiul%20Craciun.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 13 Miracolele dragostei
+https://ia801007.us.archive.org/18/items/05sosestemireasa/13%20Miracolele%20dragostei.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 14 Cea mai bună veste
+https://ia801007.us.archive.org/18/items/05sosestemireasa/14%20Cea%20mai%20buna%20veste.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 15 Ziua mamei
+https://ia801007.us.archive.org/18/items/05sosestemireasa/15%20Ziua%20mamei.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 16 Răbdarea lui Iov
+https://ia801007.us.archive.org/18/items/05sosestemireasa/16%20Rabdarea%20lui%20Iov.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 17 Pește mare, pește mic
+https://ia801007.us.archive.org/18/items/05sosestemireasa/17%20Peste%20mare%2C%20peste%20mic.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 18 Primul rege
+https://ia801007.us.archive.org/18/items/05sosestemireasa/18%20Primul%20rege.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 19 Cel ce a răpus uriașul
+https://ia801007.us.archive.org/18/items/05sosestemireasa/19%20Cel%20ce-a%20rapus%20uriasul.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 20 Înțeleptul
+https://ia801007.us.archive.org/18/items/05sosestemireasa/20%20Inteleptul.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 21 Un profet adevărat
+https://ia801007.us.archive.org/18/items/05sosestemireasa/21%20Un%20profet%20adevarat.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 22 Care în flăcări
+https://ia801007.us.archive.org/18/items/05sosestemireasa/22%20Care%20in%20flacari.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 23 Cușca leilor
+https://ia801007.us.archive.org/18/items/05sosestemireasa/23%20Cusca%20leilor.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 24 Neemia și zidurile Ierusalimului
+https://ia801007.us.archive.org/18/items/05sosestemireasa/24%20Neemia%20si%20zidurile%20Ierusalimului.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 25 Regina frumuseții
+https://ia801007.us.archive.org/18/items/05sosestemireasa/25%20Regina%20frumusetii.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 26 Marele convertit
+https://ia801007.us.archive.org/18/items/05sosestemireasa/26%20Marele%20convertit.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 27 Unde, o, unde
+https://ia801007.us.archive.org/18/items/05sosestemireasa/27%20Unde%2C%20o%2C%20unde.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 28 Crenvurști
+https://ia801007.us.archive.org/18/items/05sosestemireasa/28%20Crenvursti.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 29 Proba credinței și a ascultării
+https://ia801007.us.archive.org/18/items/05sosestemireasa/29%20Proba%20credintei%20si%20a%20ascultarii.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 30 Dragoste la prima vedere
+https://ia801007.us.archive.org/18/items/05sosestemireasa/30%20Dragoste%20la%20prima%20vedere.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 31 Favoritul lui tata
+https://ia801007.us.archive.org/18/items/05sosestemireasa/31%20Favoritul%20lui%20tata.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 32 Totul despre visuri
+https://ia801007.us.archive.org/18/items/05sosestemireasa/32%20Totul%20despre%20visuri.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 33 Ostaticul
+https://ia801007.us.archive.org/18/items/05sosestemireasa/33%20Ostaticul.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 34 Reuniunea de familie
+https://ia801007.us.archive.org/18/items/05sosestemireasa/34%20Reuniunea%20de%20familie.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 35 Un dar din ceruri
+https://ia801007.us.archive.org/18/items/05sosestemireasa/35%20Un%20dar%20din%20ceruri.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 36 Rugul aprins
+https://ia801007.us.archive.org/18/items/05sosestemireasa/36%20Rugul%20aprins.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 37 Nu mai vreau urgii
+https://ia801007.us.archive.org/18/items/05sosestemireasa/37%20Nu%20mai%20vreau%20urgii.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 38 Vreți deci să vă-ntoarceți în Egipt?
+https://ia801007.us.archive.org/18/items/05sosestemireasa/38%20Vreti%20deci%20sa%20va-ntoarceti%20in%20Egipt.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 39 Șerpi veninoși și măgărița vorbitoare
+https://ia801007.us.archive.org/18/items/05sosestemireasa/39%20Serpi%20veninosi%20si%20magarita%20vorbitoare.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 40 Merită să lupți
+https://ia801007.us.archive.org/18/items/05sosestemireasa/40%20Merita%20sa%20lupti.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 41 Mâna stângă cea bună
+https://ia801007.us.archive.org/18/items/05sosestemireasa/41%20Mana%20stanga%20cea%20buna.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 42 Prinși în noroi
+https://ia801007.us.archive.org/18/items/05sosestemireasa/42%20Prinsi%20in%20noroi.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 43 Asta da promisiune
+https://ia801007.us.archive.org/18/items/05sosestemireasa/43%20Asta%20da%20promisiune.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 44 O dreaptă răsplată
+https://ia801007.us.archive.org/18/items/05sosestemireasa/44%20O%20dreapta%20rasplata.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 45 Un dar minunat
+https://ia801007.us.archive.org/18/items/05sosestemireasa/45%20Un%20dar%20minunat.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 46 Păstorașul cel viteaz
+https://ia801007.us.archive.org/18/items/05sosestemireasa/46%20Pastorasul%20cel%20viteaz.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 47 Cu cât ești mai sus, cu atât cazi mai rău
+https://ia801007.us.archive.org/18/items/05sosestemireasa/47%20Cu%20cat%20esti%20mai%20sus%2C%20cu%20atat%20cazi%20mai%20rau.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 48 Credincios și drept
+https://ia801007.us.archive.org/18/items/05sosestemireasa/48%20Credincios%20si%20drept.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 49 Împăratul David
+https://ia801007.us.archive.org/18/items/05sosestemireasa/49%20Imparatul%20David.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 50 În toată slava Lui
+https://ia801007.us.archive.org/18/items/05sosestemireasa/50%20In%20toata%20slava%20Lui.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 51 Regina cea rea
+https://ia801007.us.archive.org/18/items/05sosestemireasa/51%20Regina%20cea%20rea.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/nlHmR2F.jpg" group-title="Cartea Cărțiilor [1981]", 52 O chestiune de timp
+https://ia801007.us.archive.org/18/items/05sosestemireasa/52%20O%20chestiune%20de%20timp.mp4
+
+
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Aventura în trecut
+https://archive.org/download/casazburatoare/01%20Aventura%20in%20trecut.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Noaptea stelei binecuvântate
+https://archive.org/download/casazburatoare/02%20Noaptea%20stelei%20binecuvantate.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Pierdut și găsit la timp
+https://archive.org/download/casazburatoare/03%20Pierdut%20si%20gasit%20la%20timp.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Voce în pustie
+https://archive.org/download/casazburatoare/04%20Voce%20in%20pustie.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Ispitirile diavolului
+https://archive.org/download/casazburatoare/05%20Ispitirile%20diavolului.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Tot ce strălucește
+https://archive.org/download/casazburatoare/06%20Tot%20ce%20straluceste.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Secrete militare
+https://archive.org/download/casazburatoare/07%20Secrete%20militare.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Premiul câștigat și pierdut
+https://archive.org/download/casazburatoare/08%20Premiul%20castigat%20si%20pierdut%20%28The%20prize%20that%20was%20won%20and%20lost%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", O altă viață
+https://archive.org/download/casazburatoare/09%20O%20alta%20viata%20%28Another%20life%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Fugarul
+https://archive.org/download/casazburatoare/10%20Fugarul.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Cine-i aproapele tău
+https://archive.org/download/casazburatoare/11%20Cine-i%20aproapele%20tau.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Sărmanul bogat mititel
+https://archive.org/download/casazburatoare/12%20Sarmanul%20bogat%20mititel.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Cel mai mare
+https://archive.org/download/casazburatoare/13%20Cel%20mai%20mare.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Întors din mormânt
+https://archive.org/download/casazburatoare/14%20Intors%20din%20mormant.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Adevărata comoară
+https://archive.org/download/casazburatoare/15%20Adevarata%20comoara.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Și dacă
+https://archive.org/download/casazburatoare/16%20Si%20daca.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Oaia pierdută
+https://archive.org/download/casazburatoare/17%20Oaia%20pierduta%20%28The%20lost%20sheep%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Struguri acri
+https://archive.org/download/casazburatoare/18%20Struguri%20acri%20%28Sour%20grapes%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Câine plecat
+https://archive.org/download/casazburatoare/19%20Caine%20plecat%20%28Dog%20gone%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Micuța orfană Ana
+https://archive.org/download/casazburatoare/20%20Micuta%20orfana%20Ana.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Un cuvânt pentru înțelepți
+https://archive.org/download/casazburatoare/21%20Un%20cuvant%20pentru%20intelepti.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Ziua judecății
+https://archive.org/download/casazburatoare/22%20Ziua%20judecatii.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Posedatul
+https://archive.org/download/casazburatoare/23%20Posedatul.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Peste deal
+https://archive.org/download/casazburatoare/24%20Peste%20deal.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Prieteni adevărați
+https://archive.org/download/casazburatoare/25%20Prieteni%20adevarati.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Poarta Diavolului
+https://archive.org/download/casazburatoare/26%20Poarta%20Diavolului%20%28Devil%27s%20gate%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Bine, bine, bine
+https://archive.org/download/casazburatoare/27%20Bine%2C%20bine%2C%20bine.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Fără bunuri în bagaj
+https://archive.org/download/casazburatoare/28%20Fara%20bunuri%20in%20bagaj.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Care dintre voi?
+https://archive.org/download/casazburatoare/29%20Care%20dintre%20voi.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Ulei și apă
+https://archive.org/download/casazburatoare/30%20Ulei%20si%20apa.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Un secret special
+https://archive.org/download/casazburatoare/31%20Un%20secret%20special.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Strigăte la miezul nopții
+https://archive.org/download/casazburatoare/32%20Strigate%20la%20miezul%20noptii.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Cât valorează?
+https://archive.org/download/casazburatoare/33%20Cat%20valoreaza.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Fără roade
+https://archive.org/download/casazburatoare/34%20Fara%20roade.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Potrivit pentru un rege
+https://archive.org/download/casazburatoare/35%20Potrivit%20pentru%20un%20rege%20%28Fit%20for%20a%20king%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Iscoada
+https://archive.org/download/casazburatoare/36%20Iscoada.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Pregătirea
+https://archive.org/download/casazburatoare/37%20Pregatirea.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Trădarea
+https://archive.org/download/casazburatoare/38%20Tradarea.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Cine conduce?
+https://archive.org/download/casazburatoare/39%20Cine%20conduce.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Coroana de spini
+https://archive.org/download/casazburatoare/40%20Coroana%20de%20spini.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Golgota
+https://archive.org/download/casazburatoare/41%20Golgota.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Mormântul gol
+https://archive.org/download/casazburatoare/42%20Mormantul%20gol.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Cu voi mereu
+https://archive.org/download/casazburatoare/43%20Cu%20voi%20mereu.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Evadarea din temniță
+https://archive.org/download/casazburatoare/44%20Evadarea%20din%20temnita.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Călătorie plăcută
+https://archive.org/download/casazburatoare/45%20Calatorie%20placuta.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Lumina orbitoare
+https://archive.org/download/casazburatoare/46%20Lumina%20orbitoare.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Legați o dată, de două ori
+https://archive.org/download/casazburatoare/47%20Legati%20o%20data%2C%20de%20doua%20ori.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Strugurii cei buni
+https://archive.org/download/casazburatoare/48%20Strugurii%20cei%20buni.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Naufragiul
+https://archive.org/download/casazburatoare/49%20Naufragiul.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Mușcătura de șarpe
+https://archive.org/download/casazburatoare/50%20Muscatura%20de%20sarpe.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Durere copleșitoare
+https://archive.org/download/casazburatoare/51%20Durere%20coplesitoare.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CwAqh78.jpg" group-title="Casa zburătoare [1982]", Destinația acasă
+https://archive.org/download/casazburatoare/52%20Destinatia%20acasa.avi
+
+
+
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/0HdjhwV.jpg" group-title="Cartea Cărțiilor [2011]", La început...
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e01%20-%20La%20Inceput....mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/bEaGE9z.jpg" group-title="Cartea Cărțiilor [2011]", Testul
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e02%20-%20Testul.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/aPv1dlB.jpg" group-title="Cartea Cărțiilor [2011]", Iacov și Esau
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e03%20-%20Iacov%20si%20Esau.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/23jfgAN.jpg" group-title="Cartea Cărțiilor [2011]", Lasă poporul Meu să plece
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e04%20-%20Lasa%20poporul%20Meu%20sa%20plece.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/SGILv5j.jpg" group-title="Cartea Cărțiilor [2011]", Cele zece Porunci
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e05%20-%20Cele%2010%20Porunci.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/szTPwVY.jpg" group-title="Cartea Cărțiilor [2011]", O adventură uriașă
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e06%20-%20O%20aventura%20uriasa.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/YblWmR2.jpg" group-title="Cartea Cărțiilor [2011]", Răcnetul leului
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e07%20-%20Racnetul%20Leului.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/WInJfdo.jpg" group-title="Cartea Cărțiilor [2011]", Primul Crăciun
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e08%20-%20Primul%20Craciun.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/S96SfXa.jpg" group-title="Cartea Cărțiilor [2011]", Miracolele lui Isus
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e09%20-%20Miracolele%20lui%20Isus.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/mLpu3Oy.jpg" group-title="Cartea Cărțiilor [2011]", Cina cea de Taină
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e10%20-%20Cina%20cea%20de%20Taina.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/uWyY8Pq.jpg" group-title="Cartea Cărțiilor [2011]", A înviat!
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e11%20-%20A%20inviat.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/bA6RrPO.jpg" group-title="Cartea Cărțiilor [2011]", Drumul spre Damasc
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e12%20-%20Drumul%20spre%20Damasc.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/ofdOPKW.jpg" group-title="Cartea Cărțiilor [2011]", Apocalipsa - Bătălia finală
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%201/s1e13%20-%20Apocalipsa%20%20Batalia%20Finala.mp4
+
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/TgCoehq.jpg" group-title="Cartea Cărțiilor [2011]", Iona
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e01%20-%20Iona.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/xjNI7gi.jpg" group-title="Cartea Cărțiilor [2011]", Iosif și visul Faraonului
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e02%20-%20Iosif%20si%20visul%20faraonului.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/tu8fesL.jpg" group-title="Cartea Cărțiilor [2011]", Testați cu focul
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e03%20-%20Testati%20cu%20focul.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/fYLGYbW.jpg" group-title="Cartea Cărțiilor [2011]", Rahav și zidurile Ierihonului
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e04%20-%20Rahav%20si%20zidurile%20Ierihonului.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/drJ387t.jpg" group-title="Cartea Cărțiilor [2011]", Estera - Pentru o vreme ca aceasta
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e05%20-%20Estera%20-%20Pentru%20of%20vreme%20ca%20aceasta.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/BF1d35W.jpg" group-title="Cartea Cărțiilor [2011]", Ioan Botezătorul
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e06%20-%20Ioan%20Botezatorul.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/jpgE6fk.jpg" group-title="Cartea Cărțiilor [2011]", Pavel și naufragiul
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e07%20-%20Pavel%20si%20naufragiul.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/dbvXrZh.jpg" group-title="Cartea Cărțiilor [2011]", Noe și arca
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e08%20-%20Noe%20si%20arca.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/qnqY7gf.jpg" group-title="Cartea Cărțiilor [2011]", Iov
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e09%20-%20Iov.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/Li2PEzw.jpg" group-title="Cartea Cărțiilor [2011]", Ghedeon - Un erou neașteptat
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e10%20-%20Ghedeon%20-%20Un%20erou%20neasteptat.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/jmmKcdI.jpg" group-title="Cartea Cărțiilor [2011]", Lepădarea lui Petru
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e11%20-%20Lepadarea%20lui%20Petru.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/BuztI5f.jpg" group-title="Cartea Cărțiilor [2011]", Fiul risipitor
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e12%20-%20Fiul%20risipitor.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/KerwKQC.jpg" group-title="Cartea Cărțiilor [2011]", Ilie
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%202/s2e13%20-%20Ilie.mp4
+
+
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/a6BGuIc.jpg" group-title="Cartea Cărțiilor [2011]", Rut
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e01%20-%20Rut.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/6jjWtdP.jpg" group-title="Cartea Cărțiilor [2011]", Turnul Babel și Ziua Cincizecimii
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e02%20-%20Turnul%20Babel%20si%20Ziua%20Cincizecimii.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/aUQ6gGH.jpg" group-title="Cartea Cărțiilor [2011]", Nașterea lui Ioan Botezătorul
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e03%20-%20Ioan%20Botezatorul.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/Z6O473K.jpg" group-title="Cartea Cărțiilor [2011]", Isaac și Rebeca
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e04%20-%20Isaac%20si%20Rebeca.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/tOfHSB2.jpg" group-title="Cartea Cărțiilor [2011]", Naaman și fetița slujitoare
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e05%20-%20Naaman%20si%20fetita%20slujitoare.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/2Q2m6sa.jpg" group-title="Cartea Cărțiilor [2011]", Samuel și chemarea lui Dumnezeu
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e06%20-%20Samuel%20si%20chemarea%20lui%20Dumnezeu.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/d3ZKGVl.jpg" group-title="Cartea Cărțiilor [2011]", David și Saul
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e07%20-%20David%20si%20Saul.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/YpBpwFj.jpg" group-title="Cartea Cărțiilor [2011]", Neemia
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e08%20-%20Neemia.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/G3duhzM.jpg" group-title="Cartea Cărțiilor [2011]", Elisei și sirienii
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e09%20-%20Elisei%20si%20sirienii.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/WvgxNoK.jpg" group-title="Cartea Cărțiilor [2011]", Învierea lui Lazăr
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e10%20-%20Invierea%20lui%20Lazar.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/dcuAC70.jpg" group-title="Cartea Cărțiilor [2011]", Solomon
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e11%20-%20Solomon.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/bmDPjJv.jpg" group-title="Cartea Cărțiilor [2011]", Daniel și visul împăratului Nebucadnețar
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e12%20-%20Daniel%20si%20visul%20imparatului%20Nebucadnetar.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/en5Zzyz.jpg" group-title="Cartea Cărțiilor [2011]", Samariteanul milostiv
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%203/s3e13%20-%20Samariteanul%20milostiv.mp4
+
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/4LdVwf0.jpg" group-title="Cartea Cărțiilor [2011]", Isus hrănește mulțimiile 
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e01%20-%20Isus%20hraneste%20multimile.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/HiQrT2z.jpg" group-title="Cartea Cărțiilor [2011]", Petru și Corneliu
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e02%20-%20Petru%20si%20Corneliu.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/9Y1ioiU.jpg" group-title="Cartea Cărțiilor [2011]", Pavel și Sila
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e03%20-%20Pavel%20si%20Sila.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/FGYBzz7.jpg" group-title="Cartea Cărțiilor [2011]", Templul lui Solomon
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e04%20-%20Templul%20lui%20Solomon.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/BCfFcGX.jpg" group-title="Cartea Cărțiilor [2011]", Evadarea lui Petru
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e05%20-%20Evadarea%20lui%20Petru.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/gTCh0wE.jpg" group-title="Cartea Cărțiilor [2011]", Isus vindecă orbii
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e06%20-%20Isus%20vindeca%20orbii.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/AOpNaAF.jpg" group-title="Cartea Cărțiilor [2011]", Iosua și Caleb
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e07%20-%20Iosua%20si%20Caleb.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/WXCN54G.jpg" group-title="Cartea Cărțiilor [2011]", Ilie și văduva din Sarepta
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e08%20-%20Ilie%20si%20vaduva%20din%20Sarepta.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/6guUqW6.jpg" group-title="Cartea Cărțiilor [2011]", Învață-ne să ne rugăm
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e09%20-%20Invata-ne%20sa%20ne%20rugam.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/CDT9yXG.jpg" group-title="Cartea Cărțiilor [2011]", Ieremia
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e10%20-%20Ieremia.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/TVuwpPL.jpg" group-title="Cartea Cărțiilor [2011]", Isus în pustie
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e11%20-%20Isus%20in%20pustie.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/f9MAotL.jpg" group-title="Cartea Cărțiilor [2011]", Pavel și Barnaba
+https://ia601602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e12%20-%20Pavel%20si%20Barnaba.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/m2z6JvI.jpg" group-title="Cartea Cărțiilor [2011]", Filip
+https://ia801602.us.archive.org/11/items/Cartea_Cartilor_Biblia_Desene_Animate/Cartea%20Cartilor%20-%20Sezonul%204/s4e13%20-%20Filip.mp4
+
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Cartea Cărțiilor [2011]",
+https://archive.org/download/iptvtester/indisponibil.mp4
+
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601302.us.archive.org/12/items/povestiri-din-vechiul-testament/01%20Avraam%20si%20Isaac%20%281992%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", Avraam și Isaac
+https://archive.org/download/povestiri-din-vechiul-testament/01%20Avraam%20si%20Isaac%20%281992%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601302.us.archive.org/12/items/povestiri-din-vechiul-testament/02%20Iosif%20in%20Egipt%20%281992%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", Iosif în Egipt
+https://archive.org/download/povestiri-din-vechiul-testament/02%20Iosif%20in%20Egipt%20%281992%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601302.us.archive.org/12/items/povestiri-din-vechiul-testament/03%20Samuel%20%281993%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", Samuel
+https://archive.org/download/povestiri-din-vechiul-testament/03%20Samuel%20%281993%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601302.us.archive.org/12/items/povestiri-din-vechiul-testament/04%20Ilie%20%281993%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", Ilie
+https://archive.org/download/povestiri-din-vechiul-testament/04%20Ilie%20%281993%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601302.us.archive.org/12/items/povestiri-din-vechiul-testament/05%20Daniel%20%281993%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", Daniel
+https://archive.org/download/povestiri-din-vechiul-testament/05%20Daniel%20%281993%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-vechiul-testament/06%20Estera%20%281993%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", Estera
+https://archive.org/download/povestiri-din-vechiul-testament/06%20Estera%20%281993%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601302.us.archive.org/12/items/povestiri-din-vechiul-testament/07%20Moise%20%281993%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", Moise 
+https://archive.org/download/povestiri-din-vechiul-testament/07%20Moise%20%281993%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601302.us.archive.org/12/items/povestiri-din-vechiul-testament/08%20Elisei%20%281994%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", Elisei
+https://archive.org/download/povestiri-din-vechiul-testament/08%20Elisei%20%281994%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601302.us.archive.org/12/items/povestiri-din-vechiul-testament/09%20Ruth%20%281994%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", Ruth
+https://archive.org/download/povestiri-din-vechiul-testament/09%20Ruth%20%281994%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601302.us.archive.org/12/items/povestiri-din-vechiul-testament/10%20David%20si%20Goliat%20%281995%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", David și Goliat
+https://archive.org/download/povestiri-din-vechiul-testament/10%20David%20si%20Goliat%20%281995%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601302.us.archive.org/12/items/povestiri-din-vechiul-testament/11%20Solomon%20%281995%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", Solomon
+https://archive.org/download/povestiri-din-vechiul-testament/11%20Solomon%20%281995%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601302.us.archive.org/12/items/povestiri-din-vechiul-testament/12%20Intoarcerea%20lui%20Iosif%20%281995%29.jpg" group-title="Povestiri din Vechiul Testament [1992-1995]", Întoarcerea lui Iosif
+https://archive.org/download/povestiri-din-vechiul-testament/12%20Intoarcerea%20lui%20Iosif%20%281995%29.avi
+
+
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia801308.us.archive.org/28/items/povestiri-din-noul-testament/01%20Regele%20s-a%20nascut%20%281987%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Regele S-a născut!
+https://archive.org/download/povestiri-din-noul-testament/01%20Regele%20s-a%20nascut%20%281987%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia801308.us.archive.org/28/items/povestiri-din-noul-testament/02%20Isus%2C%20Fiul%20lui%20Dumnezeu%20%281995%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Isus, Fiul lui Dumnezeu
+https://archive.org/download/povestiri-din-noul-testament/02%20Isus%2C%20Fiul%20lui%20Dumnezeu%20%281995%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601308.us.archive.org/28/items/povestiri-din-noul-testament/03%20Ioan%20Botezatorul%20%281990%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Ioan Botezătorul
+https://archive.org/download/povestiri-din-noul-testament/03%20Ioan%20Botezatorul%20%281990%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://ia601308.us.archive.org/28/items/povestiri-din-noul-testament/04%20Fiul%20ratacitor%20%281988%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Fiul rătăcitor
+https://archive.org/download/povestiri-din-noul-testament/04%20Fiul%20ratacitor%20%281988%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/05%20Bunul%20samaritean%20%281989%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Bunul samaritean
+https://archive.org/download/povestiri-din-noul-testament/05%20Bunul%20samaritean%20%281989%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/06%20Minunile%20lui%20Isus%20%281989%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Minunile lui Isus
+https://archive.org/download/povestiri-din-noul-testament/06%20Minunile%20lui%20Isus%20%281989%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/07%20Judecatorul%20cel%20drept%20%281990%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Judecătorul cel drept
+https://archive.org/download/povestiri-din-noul-testament/07%20Judecatorul%20cel%20drept%20%281990%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/08%20Ne%20iarta%20noua%20greselile%20%281991%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Ne iartă nouă greșelile
+https://archive.org/download/povestiri-din-noul-testament/08%20Ne%20iarta%20noua%20greselile%20%281991%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/09%20Comori%20in%20Ceruri%20%281991%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Comori în Ceruri
+https://archive.org/download/povestiri-din-noul-testament/09%20Comori%20in%20Ceruri%20%281991%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/10%20Painea%20din%20cer%20%281996%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Pâinea din Cer
+https://archive.org/download/povestiri-din-noul-testament/10%20Painea%20din%20cer%20%281996%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/11%20Cel%20pierdut%20a%20fost%20gasit%20%281999%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Cel pierdut a fost găsit
+https://archive.org/download/povestiri-din-noul-testament/11%20Cel%20pierdut%20a%20fost%20gasit%20%281999%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/12%20Lazar%20traieste%20%282000%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Lazăr trăiește!
+https://archive.org/download/povestiri-din-noul-testament/12%20Lazar%20traieste%20%282000%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/13%20Doamne%2C%20eu%20cred%20%282001%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Doamne, eu cred
+https://archive.org/download/povestiri-din-noul-testament/13%20Doamne%2C%20eu%20cred%20%282001%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/14%20Parabolele%20lui%20Isus%20%282003%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Parabolele lui Isus
+https://archive.org/download/povestiri-din-noul-testament/14%20Parabolele%20lui%20Isus%20%282003%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/15%20Zidita%20pe%20stanca%20%282004%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Zidită pe stâncă
+https://archive.org/download/povestiri-din-noul-testament/15%20Zidita%20pe%20stanca%20%282004%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/16%20Venirea%20lui%20Mesia%20%282003%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Venirea lui Mesia
+https://archive.org/download/povestiri-din-noul-testament/16%20Venirea%20lui%20Mesia%20%282003%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/17%20Imparatia%20cerurilor%20%281991%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Împărăția cerurilor
+https://archive.org/download/povestiri-din-noul-testament/17%20Imparatia%20cerurilor%20%281991%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/18%20Semnele%20Timpului%20%282005%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Semnele Timpului
+https://archive.org/download/povestiri-din-noul-testament/18%20Semnele%20Timpului%20%282005%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/19%20Mielul%20lui%20Dumnezeu%20%282004%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Mielul lui Dumnezeu
+https://archive.org/download/povestiri-din-noul-testament/19%20Mielul%20lui%20Dumnezeu%20%282004%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/20%20El%20a%20inviat%20%281988%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", El a înviat
+https://archive.org/download/povestiri-din-noul-testament/20%20El%20a%20inviat%20%281988%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/21%20Rugaciune%20Domnului%20%282001%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Rugăciunea Domnului
+https://archive.org/download/povestiri-din-noul-testament/21%20Rugaciune%20Domnului%20%282001%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/22%20Cei%20din%20urma%20vor%20fi%20cei%20dintai%20%281997%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Cei din urmă vor fi cei dintâi
+https://archive.org/download/povestiri-din-noul-testament/22%20Cei%20din%20urma%20vor%20fi%20cei%20dintai%20%281997%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/23%20Saul%20din%20Tars%20%281990%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Saul din Tars
+https://archive.org/download/povestiri-din-noul-testament/23%20Saul%20din%20Tars%20%281990%29.avi
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/povestiri-din-noul-testament/24%20Marturia%20lui%20Pavel%20%281992%29.jpg" group-title="Povestiri din Noul Testament [1987-2005]", Mărturia lui Pavel
+https://archive.org/download/povestiri-din-noul-testament/24%20Marturia%20lui%20Pavel%20%281992%29.avi
+
+
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/Amy%20Carmichael.jpg" group-title="Eroii credinței", Amy Carmichael
+https://archive.org/download/eroii-credintei/Amy%20Carmichael.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/Augustine.jpg" group-title="Eroii credinței", Augustine
+https://archive.org/download/eroii-credintei/Augustine.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/Corrie%20ten%20Boom.jpg" group-title="Eroii credinței", Corrie ten Boom
+https://archive.org/download/eroii-credintei/Corrie%20ten%20Boom.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/Eric%20Liddell.jpg" group-title="Eroii credinței", Eric Liddell
+https://archive.org/download/eroii-credintei/Eric%20Liddell.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/Gladys%20Aylward.jpg" group-title="Eroii credinței", Gladys Aylward
+https://archive.org/download/eroii-credintei/Gladys%20Aylward.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/Jim%20Elliot.jpg" group-title="Eroii credinței", Jim Elliot
+https://archive.org/download/eroii-credintei/Jim%20Elliot.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/John%20Bunyan.jpg" group-title="Eroii credinței", John Bunyan
+https://archive.org/download/eroii-credintei/John%20Bunyan.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/Perpetua.jpg" group-title="Eroii credinței", Perpetua
+https://archive.org/download/eroii-credintei/Perpetua.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/Richard%20Wurmbrand.jpg" group-title="Eroii credinței", Richard Wurmbrand
+https://archive.org/download/eroii-credintei/Richard%20Wurmbrand.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/Samuel%20Morris.jpg" group-title="Eroii credinței", Samuel Morris
+https://archive.org/download/eroii-credintei/Samuel%20Morris.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/William%20Booth.jpg" group-title="Eroii credinței", William Booth
+https://archive.org/download/eroii-credintei/William%20Booth.mp4
+
+#EXTINF:-1 tvg-id="Desene" tvg-logo="https://archive.org/download/eroii-credintei/William%20Tyndale.jpg" group-title="Eroii credinței", William Tyndale
+https://archive.org/download/eroii-credintei/William%20Tyndale.mp4
+
+
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="radio", Biblia radio
+http://209.95.50.189:8006/;
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/YhFj18K.jpg" group-title="radio", Vocea Speranței București
+https://live.rvs.ro/play
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/YhFj18K.jpg" group-title="radio", Vocea Speranței Moldova
+http://31.131.2.5:8000/rvsmoldova
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/MfiEnpT.jpg" group-title="radio", 3ABN
+https://3abn.streamguys1.com/abr/english/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/3ddgH4v.jpg" group-title="radio", 3ABN Music
+https://3abn.streamguys1.com/abr/mc01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/UbHfSVV.jpg" group-title="radio", 3ABN Latino
+https://3abn.streamguys1.com/abr/latino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/GrRItAJ.jpg" group-title="radio", 3ABN Australia
+https://stream.3abnaustralia.org.au:8444/live/radio_aust/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/qoQt4dd.jpg" group-title="radio", 3ABN Russia
+https://3abn.streamguys1.com/abr/russia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/9zIijAL.png" group-title="radio", Aripi spre Cer
+https://mobile.stream.aripisprecer.ro/radio.mp3;
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/9zIijAL.png" group-title="radio", Aripi spre Cer Worship
+https://worship.aac.aripisprecer.ro/radio.mp3;
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/9zIijAL.png" group-title="radio", Aripi spre Cer Internațional
+https://international.aac.aripisprecer.ro/radio.mp3;
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/9zIijAL.png" group-title="radio", Aripi spre Cer Instrumental
+https://instrumental.aac.aripisprecer.ro/radio.mp3;
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/9zIijAL.png" group-title="radio", Aripi spre Cer Special
+https://special.aac.aripisprecer.ro/radio.mp3;
+
+
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Tată iubit, Te-adorăm
+https://ia801008.us.archive.org/35/items/tumaridicirieu/044%20Tata%20iubit%20Te-adoram%21.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Spre cine să mă-ndrept
+https://ia801008.us.archive.org/35/items/tumaridicirieu/308%20Spre%20cine%20sa%20ma-ndrept.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Venim din Cuvântul
+https://ia801008.us.archive.org/35/items/tumaridicirieu/422%20Venim%20din%20Cuv%C3%A2ntul%20-%20instrumental.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Oare n-ați aflat voi încă
+https://ia601008.us.archive.org/35/items/tumaridicirieu/456%20Oare%20n-ati%20aflat%20voi%20inca.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Domnul vine
+https://ia601008.us.archive.org/35/items/tumaridicirieu/721%20Domnul%20vine%21.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Atâta har
+https://ia801008.us.archive.org/35/items/tumaridicirieu/Atata%20har%20instrumental.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", De-acum sunt gata
+https://ia801008.us.archive.org/35/items/tumaridicirieu/De-acum%20sunt%20gata%20-%20instrumental.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", El m-a condus - Lodencamp Family
+https://ia801008.us.archive.org/35/items/tumaridicirieu/El%20m-a%20condus%20-%20Lodencamp%20Family%20-%20instrumental.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Sakura
+https://ia601008.us.archive.org/35/items/tumaridicirieu/Enjoy%20Instrumental%20Music%20-%20Sakura.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", To those who came before me
+https://ia801008.us.archive.org/35/items/tumaridicirieu/Enjoy%20Instrumental%20Music%20-%20To%20those%20who%20came%20before%20me.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Robyn Rochelle
+https://ia601008.us.archive.org/35/items/tumaridicirieu/Harpa%20-%20Robyn%20Rochelle.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Ierusalim - Lavinia Rusu
+https://ia601008.us.archive.org/35/items/tumaridicirieu/Ierusalim%20-%20Lavinia%20Rusu.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Instrumental
+https://ia801008.us.archive.org/35/items/tumaridicirieu/Instrumental.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Britannia - Orchestra natională de blockflote
+https://ia601008.us.archive.org/35/items/tumaridicirieu/Rule%20Britannia%20-%20Orchestra%20National%C4%83%20de%20Blockflote.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Să fie oare adevărat - Fanfară
+https://ia601008.us.archive.org/35/items/tumaridicirieu/Sa%20fie%20oare%20adevarat%20-%20Fanfra.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Știm un râu cu apă vie - Sara Stroici
+https://ia601008.us.archive.org/35/items/tumaridicirieu/Sara%20Stroici%20-%20Stim%20un%20rau%20cu%20apa%20vie.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", There is a fountain - The Hartmans
+https://ia801008.us.archive.org/35/items/tumaridicirieu/The%20Hartmans%20-%20There%20is%20a%20fountain%20-%20Instrumental.mp4
+
+#EXTINF:-1 tvg-id="radio" tvg-logo="https://i.imgur.com/syCEYrV.jpg" group-title="Muzică instrumentală", Tu mă ridici - Andre Rieu
+https://ia601008.us.archive.org/35/items/tumaridicirieu/Tu%20ma%20ridici%20-%20rieu.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", Adunarea -  Maria Cuciureanu
+https://download.resursecrestine.ro/resurse-audio/poezii/maria-cuciureanu/diverse/Adunarea-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", Adevărul -  Maria Cuciureanu
+https://download2.resursecrestine.ro/resurse-audio/poezii/maria-cuciureanu/diverse/Adevarul-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", Așa e Ea - Cornelia Sărac
+https://download2.resursecrestine.ro/resurse-audio/poezii/cornelia-sarac/volumul-2/Asa_e_Ea-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", Alergarea - Cornelia Sărac
+https://download.resursecrestine.ro/resurse-audio/poezii/cornelia-sarac/din-teascul-zdrobirii/Alergarea-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii",  Acum - Elene Rascol
+https://download2.resursecrestine.ro/resurse-audio/poezii/elena-rascol/diverse/Acum-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", Al Lui - Simion Cubolta
+https://download.resursecrestine.ro/resurse-audio/poezii/cross-one-radio/larisa-badea/Al_lui_-_Simion_Cubolta-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", Așteaptă - John White
+https://download2.resursecrestine.ro/resurse-audio/poezii/cross-one-radio/larisa-badea/Asteapta_-_John_White-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", Aș vrea să zbor - Daniel Hirtie
+https://download.resursecrestine.ro/resurse-audio/poezii/marius-motora/diverse/As_vrea_sa_zbor_-_autor_Daniel_Hirtie-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", Atâtea taine - Valentin Popovici 
+https://download2.resursecrestine.ro/resurse-audio/poezii/cross-one-radio/larisa-badea/Atatea_taine_-_Valentin_Popovici-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", A fost odat` un copilaș - Traian Dorz 
+https://download2.resursecrestine.ro/resurse-audio/poezii/cross-one-radio/larisa-badea/A_fost_odat_un_copilas_-_Traian_Dorz-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", An Nou - Traian Dorz
+https://download2.resursecrestine.ro/resurse-audio/poezii/marius-motora/diverse/An_Nou_-_de_Traian_Dorz-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", A înviat Isus! -  Lidia Duciuc
+https://download.resursecrestine.ro/resurse-audio/poezii/lidia-duciuc/diverse/A_inviat_Isus-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", Speranța -  Maria Cuciureanu
+https://download2.resursecrestine.ro/resurse-audio/poezii/maria-cuciureanu/diverse/Speranta-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/ZfSfjZO.jpg" group-title="Poezii", Știi tu - Maria Luca
+https://download2.resursecrestine.ro/resurse-audio/poezii/marius-motora/diverse/Stii_tu_-_de_Maria_Luca-(www.resursecrestine.ro).mp3
+
+
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", A bătut la ușa ta
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_001.-A-batut-la-usa-ta.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", A câta oară?
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_002.-A-cata-oara.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", A venit un om
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_003.-A-venit-un-om.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Acum eliberează, Doamne
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_004.-Acum-elibereaza-Doamne.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ai ostenit
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_005.-Ai-ostenit.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Alfa
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_006.-Alfa.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Altceva
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_007.-Altceva.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Am auzit
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_008.-Am-auzit.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Am găsit o floare ruptă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_009.-Am-gasit-o-floare-rupta.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", An de an
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_010.-An-de-an.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ascultați o întrebare
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_011.-Ascultati-o-intrebare.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Aș privi
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_012.-As-privi.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Așa ai vrut Tu
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_013.-Asa-ai-vrut-Tu.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Azi e zi mare
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_014.-Azi-e-zi-mare.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Bătrânețe, școală-naltă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_015.-Batranete-scoala-nalta.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Biruința
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_016.-Biruinta.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Bun rămas
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_017.-Bun-ramas.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ca pâine a vieții
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_018.-Ca-paine-a-vietii.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Calea, Adevărul, Viața
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_019.-Calea-Adevarul-Viata.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Cartea Vieții
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_020.-Cartea-Vietii.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Când inima
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_021.-Cand-inima.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Când răsare prima stea
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_022.-Cand-rasare-prima-stea.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Când trandafirii înfloresc
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_023.-Cand-trandafirii-infloresc.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Cât ai trăit
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_024.-Cat-ai-trait.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Cât prețuiește?
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_025.-Cat-pretuieste.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ce bine mă simt
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_026.-Ce-bine-ma-simt.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ce drum!
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_027.-Ce-drum.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ce frumoasă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_028.-Ce-frumoasa.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ce mângâiere
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_029.-Ce-mangaiere.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ce n-ai da tu
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_030.-Ce-n-ai-da-tu.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ce noapte grea!
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_031.-Ce-noapte-grea.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ce școală-naltă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_032.-Ce-scoala-nalta.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ceasul vieții
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_033.-Ceasul-vietii.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ce-i viața ta?
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_034.-Ce-i-viata-ta.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ce-ngunstă e calea
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_035.-Ce-ngunsta-e-calea.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Cine ești?
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_036.-Cine-esti.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Cinstește pe frați
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_037.-Cinsteste-pe-frati.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Cling, cling
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_038.-Cling-cling.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Clipe de cercetare
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_039.-Clipe-de-cercetare.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Clopotele
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_040.-Clopotele.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Condu-mă Tu
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_041.-Condu-ma-Tu.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Cum Tatăl Meu
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_042.-Cum-Tatal-Meu.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Cunosc un om
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_043.-Cunosc-un-om.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Da și nu
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_044.-Da-si-nu.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Dacă două mâini rebele
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_045.-Daca-doua-maini-rebele.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Dacă nu aș fi
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_046.-Daca-nu-as-fi.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Dacă o vrea Dumnezeu
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_047.-Daca-o-vrea-Dumnezeu.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Dacă porți
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_048.-Daca-porti.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Dacă trăiesc
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_049.-Daca-traiesc.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Dacă vrei
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_050.-Daca-vrei.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Dar sus la Golgota
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_051.-Dar-sus-la-Golgota.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Dar tu?
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_052.-Dar-tu.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", De când Îl iubesc pe Isus
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_053.-De-cand-Il-iubesc-pe-Isus.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", De ce-ai venit?
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_054.-De-ce-ai-venit.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", De la iesle
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_055.-De-la-iesle.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", De mila celor care pier
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_056.-De-mila-celor-care-pier.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", De ziua ta
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_057.-De-ziua-ta.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", De-ai mai fi, Isuse
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_058.-De-ai-mai-fi-Isuse.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", De-aș fi fost
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_059.-De-as-fi-fost.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Din Carpați
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_060.-Din-Carpati.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Din cer, din locuri sfinte
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_061.-Din-cer-din-locuri-sfinte.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Din zi în zi
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_062.-Din-zi-in-zi.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Domnul Dumnezeu
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_063.-Domnul-Dumnezeu.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Dragostea
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_065.-Dragostea.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Drum bun
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_066.-Drum-bun.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", E dimineață
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_067.-E-dimineata.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", E primăvară
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_068.-E-primavara.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Epitalam
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_069.-Epitalam.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Era o seară de Nisan
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_070.-Era-o-seara-de-Nisan.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Eu sunt Iosif
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_071.-Eu-sunt-Iosif.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Eu sunt un prunc
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_072.-Eu-sunt-un-prunc.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ezechia
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_073.-Ezechia.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Fericire I
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_074.-Fericire-I.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Fericire II
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_075.-Fericire-II.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Fiii lui Dumnezeu
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_076.-Fiii-lui-Dumnezeu.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Floarea de mireasă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_077.-Floarea-de-mireasa.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Frumos e crinul
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_078.-Frumos-e-crinul.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Frunze
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_079.-Frunze.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Galileea
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_080.-Galileea.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Grăjdarul
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_081.-Grajdarul.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Haideți, frați!
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_082.-Haideti-frati.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Hristos a înviat
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_083.-Hristos-a-inviat.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Icoanele mele
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_084.-Icoanele-mele.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ieșurun
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_085.-Iesurun.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Inelul
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_086.-Inelul.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ionatan și David
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_087.-Ionatan-si-David.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Isus a fost în slavă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_088.-Isus-a-fost-in-slava.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Isus te cheamă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_089.-Isus-te-cheama.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Isus, luând povara
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_090.-Isus-luand-povara.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Iubirea noastră-i mai frumoasă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_091.-Iubirea-noastra-i-mai-frumoasa.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Iubirea Ta
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_092.-Iubirea-Ta.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Împărate, când mi-adun
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_093.-Imparate-cand-mi-adun.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", În marele palat
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_094.-In-marele-palat.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", În noaptea de Înviere
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_095.-In-noaptea-de-Inviere.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", În tranșeul
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_096.-In-transeul.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Întoarce-te la Domnul
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_097.-Intoarce-te-la-Domnul.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Într-o iesle
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_098.-Intr-o-iesle.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Într-un cătun
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_099.-Intr-un-catun.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Judecata
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_100.-Judecata.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", La Cincizecime
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_101.-La-Cincizecime.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Lăudați pe Domnul
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_103.-Laudati-pe-Domnul.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Lipește-mi, Doamne, sufletul
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_104.-Lipeste-mi-Doamne-sufletul.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Lutierul
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_105.-Lutierul.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Magii de apoi
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_106.-Magii-de-apoi.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Maria Magdalena
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_107.-Maria-Magdalena.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Mă iubești
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_108.-Ma-iubesti.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Mărțișor
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_109.-Martisor.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Mâinile Tale
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_110.-Mainile-Tale.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Messina
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_111.-Messina.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Mulțimi în sărbătoare
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_112.-Multimi-in-sarbatoare.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Mulțumire
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_114.-Multumire.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Nașterea lui Isus
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_115.-Nasterea-lui-Isus.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Nimic nu sunt
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_116.-Nimic-nu-sunt.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ninge
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_117.-Ninge.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Noi avem
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_118.-Noi-avem.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Noi mergem spre viață
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_119.-Noi-mergem-spre-viata.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Nu mă satur
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_120.-Nu-ma-satur.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Nu tăia din cruce
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_121.-Nu-taia-din-cruce.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Nu-i cer mai înalt
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_122.-Nu-i-cer-mai-inalt.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", O nouă zi
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_123.-O-noua-zi.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", O, ce Prunc ciudat
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_124.-O-ce-Prunc-ciudat.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", O, cum aleargă un părinte
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_125.-O-cum-alearga-un-parinte.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", O, dac-ar fi pe-un munte
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_126.-O-dac-ar-fi-pe-un-munte.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", O, Doamne, văd
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_127.-O-Doamne-vad.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", O, parcă-i prea frumos
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_128.-O-parca-i-prea-frumos.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", O, poate, mâine
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_129.-O-poate-maine.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", O, Tată bun și sfânt
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_130.-O-Tata-bun-si-sfant.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Omul
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_131.-Omul.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Pământule
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_132.-Pamantule.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Păstrează
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_133.-Pastreaza.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Pe calea strâmtă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_134.-Pe-calea-stramta.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Pe când eram flămânzi
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_135.-Pe-cand-eram-flamanzi.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Pe un deal depărtat
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_136.-Pe-un-deal-departat.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Pentru Pruncul Isus
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_138.-Pentru-Pruncul-Isus.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Pe-un pătul
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_139.-Pe-un-patul.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Piramida
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_140.-Piramida.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Porumbițe albe
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_141.-Porumbite-albe.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Prima bucurie
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_142.-Prima-bucurie.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Primăvară, sol ceresc
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_143.-Primavara-sol-ceresc.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Pruncușor
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_144.-Pruncusor.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Răsplata
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_145.-Rasplata.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Reformatorul
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_146.-Reformatorul.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Rugăciune de binecuvântare
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_147.-Rugaciune-de-binecuvantare.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Să dăm mulțumire
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_148.-Sa-dam-multumire.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Să fii credincios
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_149.-Sa-fii-credincios.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Să ne iubim
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_150.-Sa-ne-iubim.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Să nu mă bucur
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_151.-Sa-nu-ma-bucur.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Scrisoare către Timotei
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_152.-Scrisoare-catre-Timotei.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Se-aude pe ulița
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_153.-Se-aude-pe-ulita.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Simone
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_154.-Simone.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Spală-mă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_156.-Spala-mi.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Spre Betleem
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_157.-Spre-Betleem.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Steaua vie
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_158.-Steaua-vie.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Strigăt
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_159.-Strigat.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Sunt un bulgăr de nimic
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_160.-Sunt-un-bulgar-de-nimic.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Șarpele de aramă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_162.-Sarpele-de-arama.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Și tu nu știi
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_163.-Si-tu-nu-stii.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Și-acum
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_164.-Si-acum.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Te văd mereu
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_165.-Te-vad-mereu.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Tot mai frumos
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_166.-Tot-mai-frumos.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Tot mai mult
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_167.-Tot-mai-mult.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Tu ești iubirea din etern
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_168.-Tu-esti-iubirea-din-etern.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Tu n-ai nimic
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_169.-Tu-n-ai-nimic.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Tu, cântăreț plăcut
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_170.-Tu-cantaret-placut.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Tu, cel ce-ai făurit
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_171.-Tu-cel-ce-ai-faurit.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Ți-aduci aminte, mamă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_172.-Ti-aduci-aminte-mama.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Un cântec doar
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_173.-Un-cantec-doar.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Un cântec nou
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_174.-Un-cantec-nou.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Un copil
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_175.-Un-copil.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Un sunet de trompetă
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_177.-Un-sunet-de-trompeta.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Un vârf de lance
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_178.-Un-varf-de-lance.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Unde-i?
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_179.-Unde-i.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Urare
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_180.-Urare.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Va reveni
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_181.-Va-reveni.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Vai de cei nepăsători
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_182.-Vai-de-cei-nepasatori.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Vai, fraților
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_183.-Vai-fratilor.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Vasul cu mir
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_184.-Vasul-cu-mir.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Veniți, popoare!
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_185.-Veniti-popoare.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Vorbește, Doamne
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_186.-Vorbeste-Doamne.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Vreau să învăț
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_187.-Vreau-sa-invat.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Zacheu
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_188.-Zacheu.mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/EqijYTZ.jpg" group-title="Poezii - Costache Ioanid", Zbor alb
+https://bibliotecacrestina.ro/wp-content/uploads/2022/12/PA_CI_189.-Zbor-alb.mp3
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/hv6TdJ3.jpg" group-title="Poezii - Autori anonimi", Ce nu înțeleg
+https://download2.resursecrestine.ro/resurse-audio/poezii/Diverse/Ce_nu_inteleg-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/hv6TdJ3.jpg" group-title="Poezii - Autori anonimi", Urcând dealul cu Domnul
+https://download2.resursecrestine.ro/resurse-audio/poezii/Diverse/Urcand_dealul_cu_Domnul-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/hv6TdJ3.jpg" group-title="Poezii - Autori anonimi", Aruncă mreaja
+https://download2.resursecrestine.ro/resurse-audio/poezii/Diverse/Arunca_mreaja-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/hv6TdJ3.jpg" group-title="Poezii - Autori anonimi", Ca să fii rege
+https://download2.resursecrestine.ro/resurse-audio/poezii/Diverse/Ca_sa_fii_rege-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/hv6TdJ3.jpg" group-title="Poezii - Autori anonimi", Iubirea
+https://download2.resursecrestine.ro/resurse-audio/poezii/Diverse/Iubirea-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/hv6TdJ3.jpg" group-title="Poezii - Autori anonimi", Eu să aduc
+https://download2.resursecrestine.ro/resurse-audio/poezii/Diverse/Eu_sa_aduc-(www.resursecrestine.ro).mp3
+
+#EXTINF:-1 tvg-id="poezii" tvg-logo="https://i.imgur.com/hv6TdJ3.jpg" group-title="Poezii - Autori anonimi", Tu ce răspunzi
+https://download2.resursecrestine.ro/resurse-audio/poezii/Diverse/Tu_ce_raspunzi-(www.resursecrestine.ro).mp3
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://i.imgur.com/G0t08TB.jpg" group-title="Cărți audio E.G.White", Calea către Hristos - Ellen White
+https://archive.org/download/carti-audio/Calea%20catre%20Hristos.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://i.imgur.com/AwLUvLV.jpg" group-title="Cărți audio E.G.White", Hristos Lumina lumii - Ellen White
+https://archive.org/download/carti-audio/Hristos%20Lumina%20lumii.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://i.imgur.com/RgGycV4.jpg" group-title="Cărți audio E.G.White", Faptele Apostolilor - Ellen White
+https://archive.org/download/carti-audio/Faptele%20Apostolilor.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://i.imgur.com/nkKkC7O.jpg" group-title="Cărți audio E.G.White", Tragedia Veacurilor - Ellen White
+https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-10-24/421ad576e0fe8d71ea43118b3ba1610f.m4a
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://i.imgur.com/EbI5cv7.jpg" group-title="Cărți audio E.G.White", Istoria mântuirii - Ellen White
+https://archive.org/download/carti-audio/Istoria%20mantuirii.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://i.imgur.com/YMU6zjm.jpg" group-title="Cărți audio E.G.White", Cugetări de pe muntele fericirilor - Ellen White
+https://archive.org/download/carti-audio/Cugetari%20de%20pe%20muntele%20fericirilor.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://i.imgur.com/hy94UK6.jpg" group-title="Cărți audio E.G.White", Adevărul despre îngeri - Ellen White
+https://archive.org/download/carti-audio/Adevarul%20despre%20ingeri.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://i.imgur.com/ocGG8UG.jpg" group-title="Cărți audio E.G.White", Sfințirea vieții - Ellen White
+https://archive.org/download/carti-audio/Sfintirea%20vietii.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://i.imgur.com/3G19EPm.jpg" group-title="Cărți audio E.G.White", Rugăciunea - Ellen White
+https://archive.org/download/carti-audio/Rugaciunea.mp4
+
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://i.imgur.com/4iNlF9A.jpg" group-title="Cărți audio", Speranță dincolo de mâine - Mark Finley
+https://archive.org/download/carti-audio/Speran%C8%9B%C4%83%20dincolo%20de%20m%C3%A2ine%20%20-%20Mark%20Finley.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://i.imgur.com/lD9kqDn.jpg" group-title="Cărți audio", Siguranță pentru vremuri tulburi - Mark Finley
+https://archive.org/download/carti-audio/Siguran%C8%9B%C4%83%20pentru%20vremuri%20tulburi%20-%20Mark%20Finley.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/carti-audio/Trei%20mesaje%20pentru%20o%20lume%20ce%20freamata%20-%20Clifford%20Goldstein.jpg" group-title="Cărți audio", Trei mesaje pentru o lume ce freamata - Clifford Goldstein
+https://archive.org/download/carti-audio/Trei%20mesaje%20pentru%20o%20lume%20ce%20freamata%20-%20Clifford%20Goldstein.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/carti-audio/Vie%20%C3%8Emp%C4%83r%C4%83%C8%9Bia%20Ta%20-%20autori%20colectivi.jpg" group-title="Cărți audio", Vie Împărăția Ta - Autori colectivi
+https://archive.org/download/carti-audio/Vie%20%C3%8Emp%C4%83r%C4%83%C8%9Bia%20Ta%20-%20Autori%20colectivi.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/carti-audio/Traista%20cu%20povestiri%20-%20Elida%20Oncea.jpg" group-title="Cărți audio pentru copii", Traista cu povești vol.1 - Elida Oncea
+https://archive.org/download/carti-audio/Traista%20cu%20pove%C8%99ti%2C%20vol.%201%20-%20Elida%20Oncea.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/carti-audio/Traista%20cu%20povestiri%20-%20Elida%20Oncea.jpg" group-title="Cărți audio pentru copii", Traista cu povești vol.2 - Elida Oncea
+https://archive.org/download/carti-audio/Traista%20cu%20pove%C8%99ti%2C%20vol.%202%20-%20Elida%20Oncea.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/carti-audio/Mielul%20fara%20cusur%20-%20David%20Edgren.jpg" group-title="Cărți audio pentru copii", Mielul fără cusur - David Edgren
+https://archive.org/download/carti-audio/Mielul%20fara%20cusur%20-%20David%20Edgren.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/carti-audio/Talita%20-%20O%20poveste%20despre%20credinta.jpg" group-title="Cărți audio pentru copii", Talita - David Edgren
+https://archive.org/download/carti-audio/Talita%20-%20o%20poveste%20despre%20credinta.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/carti-audio/R%C4%83zboiul%20invizibililor%20-%20Sally%20Pierson%20Dillon.jpg" group-title="Cărți audio pentru copii", Războiul invizibililor - Sally Pierson Dillon
+https://archive.org/download/carti-audio/R%C4%83zboiul%20invizibililor%20-%20Sally%20Pierson%20Dillon.mp4
+
+
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Boyan%20Slat.jpg" group-title="Cărți audio - Povestirile vacanței", Boyan Slat
+https://archive.org/download/povestirile-vacantei/Boyan%20Slat.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Ce%20frumoas%C4%83%20era%20vacan%C8%9Ba%20mare.jpg" group-title="Cărți audio - Povestirile vacanței", Ce frumoasă era vacanța mare
+https://archive.org/download/povestirile-vacantei/Ce%20frumoas%C4%83%20era%20vacan%C8%9Ba%20mare.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Cum%20mi-am%20pedepsit%20m%C3%A2ncarea.jpg" group-title="Cărți audio - Povestirile vacanței", Cum mi-am pedepsit mâncarea
+https://archive.org/download/povestirile-vacantei/Cum%20mi-am%20pedepsit%20m%C3%A2ncarea.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/De%20ce%20tocmai%20eu.jpg" group-title="Cărți audio - Povestirile vacanței", De ce tocmai eu
+https://archive.org/download/povestirile-vacantei/De%20ce%20tocmai%20eu.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Doi%20fra%C8%9Bi%20%C8%99i-o%20musta%C8%9B%C4%83.jpg" group-title="Cărți audio - Povestirile vacanței", Doi frați și-o mustață
+https://archive.org/download/povestirile-vacantei/Doi%20fra%C8%9Bi%20%C8%99i-o%20musta%C8%9B%C4%83.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Fiecare-i%20talentat.jpg" group-title="Cărți audio - Povestirile vacanței", Fiecare-i talentat
+https://archive.org/download/povestirile-vacantei/Fiecare-i%20talentat.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Hans%20Christian%20%C8%99i%20omul%20cel%20r%C4%83u.jpg" group-title="Cărți audio - Povestirile vacanței", Hans Christian și omul cel rău
+https://archive.org/download/povestirile-vacantei/Hans%20Christian%20%C8%99i%20omul%20cel%20r%C4%83u.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/La%20sc%C4%83ldat.jpg" group-title="Cărți audio - Povestirile vacanței", La scăldat
+https://archive.org/download/povestirile-vacantei/La%20sc%C4%83ldat.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Louis%20Braille%20-%20Eroi%20fara%20pelerina%20-%20Vittoria%20Iacovella.jpg" group-title="Cărți audio - Povestirile vacanței", Louis Braille
+https://archive.org/download/povestirile-vacantei/Louis%20Braille.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Micul%20Charlie%20urc%C4%83%20pe%20scen%C4%83.jpg" group-title="Cărți audio - Povestirile vacanței", Micul Charlie urcă pe scenă
+https://archive.org/download/povestirile-vacantei/Micul%20Charlie%20urc%C4%83%20pe%20scen%C4%83.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Moc%C4%83%2C%20ursul%20care%20a%20fugit.jpg" group-title="Cărți audio - Povestirile vacanței", Mocă, ursul care a fugit
+https://archive.org/download/povestirile-vacantei/Moc%C4%83%2C%20ursul%20care%20a%20fugit.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/M%C4%83%20mut%20la%20ora%C8%99.jpg" group-title="Cărți audio - Povestirile vacanței", Mă mut la oraș
+https://archive.org/download/povestirile-vacantei/M%C4%83%20mut%20la%20ora%C8%99.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Nimeni%20nu%20m%C4%83%20vrea%20-%20Bing%20din%20Kobuk%20-%20Kenneth%20C.%20Crawford.jpg" group-title="Cărți audio - Povestirile vacanței", Nimeni nu mă vrea
+https://archive.org/download/povestirile-vacantei/Nimeni%20nu%20m%C4%83%20vrea.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Noaptea%20%C3%AEn%20p%C4%83dure%20-%20Curajul%20lui%20Sarah%20Noble%20-%20Alice%20Dalgliesh.jpg" group-title="Cărți audio - Povestirile vacanței", Noaptea în pădure
+https://archive.org/download/povestirile-vacantei/Noaptea%20%C3%AEn%20p%C4%83dure.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/O%20g%C4%83leat%C4%83%20de%20fasole%20verde%20-%20Cr%C3%A2mpeie%20de%20via%C5%A3%C4%83%20-%20Elena%20Petrescu.jpg" group-title="Cărți audio - Povestirile vacanței", O găleată de fasole verde
+https://archive.org/download/povestirile-vacantei/O%20g%C4%83leat%C4%83%20de%20fasole%20verde.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/O%20zi%20cu%20Albu%C8%99%20-%20Peripe%C5%A3iile%20lui%20R%C4%83sf%C4%83%C5%A3el%20-%20Geanina%20Constantin.jpg" group-title="Cărți audio - Povestirile vacanței", O zi cu Albuș
+https://archive.org/download/povestirile-vacantei/O%20zi%20cu%20Albu%C8%99.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/O%20zi%20destul%20de%20neobi%C8%99nuit%C4%83%20-%20Peripe%C5%A3iile%20lui%20R%C4%83sf%C4%83%C5%A3el%20-%20Geanina%20Constantin.jpg" group-title="Cărți audio - Povestirile vacanței", O zi destul de neobișnuită
+https://archive.org/download/povestirile-vacantei/O%20zi%20destul%20de%20neobi%C8%99nuit%C4%83.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Oamenii%20sunt%20mai%20importan%C8%9Bi.jpg" group-title="Cărți audio - Povestirile vacanței", Oamenii sunt mai importanți
+https://archive.org/download/povestirile-vacantei/Oamenii%20sunt%20mai%20importan%C8%9Bi.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Pachi%20-%20elefantul%20evadat.jpg" group-title="Cărți audio - Povestirile vacanței", Pachi - elefantul evadat
+https://archive.org/download/povestirile-vacantei/Pachi%20-%20elefantul%20evadat.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Pericol%20pe%20ocean.jpg" group-title="Cărți audio - Povestirile vacanței", Pericol pe ocean
+https://archive.org/download/povestirile-vacantei/Pericol%20pe%20ocean.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Puterea%20lui%20%E2%80%9Edac%C4%83%E2%80%9D%20-%20%C3%8Ent%C3%A2mpl%C4%83ri%20cu%20arom%C4%83%20de%20smochine%20-%20Roxana%20Lupu.jpg" group-title="Cărți audio - Povestirile vacanței", Puterea lui „dacă”
+https://archive.org/download/povestirile-vacantei/Puterea%20lui%20%E2%80%9Edac%C4%83%E2%80%9D.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/P%C3%A2inea%20lui%20Dumnezeu%20-%20%C3%8Ent%C3%A2mpl%C4%83ri%20cu%20arom%C4%83%20de%20smochine%20-%20Roxana%20Lupu.jpg" group-title="Cărți audio - Povestirile vacanței", Pâinea lui Dumnezeu
+https://archive.org/download/povestirile-vacantei/P%C3%A2inea%20lui%20Dumnezeu.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/P%C4%83pu%C8%99a%20lui%20Hellen.jpg" group-title="Cărți audio - Povestirile vacanței", Păpușa lui Hellen
+https://archive.org/download/povestirile-vacantei/P%C4%83pu%C8%99a%20lui%20Hellen.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Sally%2C%20maimu%C8%9Ba%20care%20a%20sc%C4%83pat.jpg" group-title="Cărți audio - Povestirile vacanței", Sally, maimuța care a scăpat
+https://archive.org/download/povestirile-vacantei/Sally%2C%20maimu%C8%9Ba%20care%20a%20sc%C4%83pat.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Samson.jpg" group-title="Cărți audio - Povestirile vacanței", Samson
+https://archive.org/download/povestirile-vacantei/Samson.mp4
+
+#EXTINF:-1 tvg-id="carti" tvg-logo="https://archive.org/download/povestirile-vacantei/Valerio%20Catoia.jpg" group-title="Cărți audio - Povestirile vacanței", Valerio Catoia
+https://archive.org/download/povestirile-vacantei/Valerio%20Catoia.mp4
+
+
+
+
+
+
+
+
+
+
+
