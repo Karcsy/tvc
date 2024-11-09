@@ -1,11 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="a7tv" tvg-name="A7TV"tvg-logo="https://i.imgur.com/240wAAr.jpg" group-title="România", A7TV https://a7tvlive.ro/A7TV/A7TV/chunklist_w1577138789.m3u8
-#EXTINF:-1 tvg-id="speranta-tv" tvg-name="Speranta TV" tvg-logo="https://i.imgur.com/rNdWODH.jpg" group-title="România",Speranța TV https://customer-x8zydurm357k8j9p.cloudflarestream.com/0dd00c080ff4cbe839a12c923610a55c/manifest/video.m3u8
-#EXTINF:-1 tvg-id="llbn.ro" tvg-logo="https://i.imgur.com/dpdR0fl.jpg" group-title="România", Loma Linda https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_1200_20240909T111516.m3u8
-#EXTINF:-1 tvg-id="alfa-omega-tv" tvg-name="Alfa Omega TV" tvg-logo="https://i.imgur.com/i84en2H.jpg" group-title="România",Alfa Omega TV https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
-#EXTINF:-1 tvg-id="credo-tv" tvg-name="Credo TV" tvg-logo="https://i.imgur.com/a2ApGJO.png" group-title="România",Credo TV http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+#EXTINF:-1 tvg-id="A7tv.ro" tvg-logo="https://i.imgur.com/240wAAr.jpg" group-title="România", A7TV
+https://a7tvlive.ro/A7TV/A7TV/chunklist_w1577138789.m3u8
+#EXTINF:-1 tvg-id="speranta-tv" tvg-logo="https://i.imgur.com/rNdWODH.jpg" group-title="România", Speranța TV
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/0dd00c080ff4cbe839a12c923610a55c/manifest/video.m3u8
+#EXTINF:-1 tvg-id="llbn.ro" tvg-logo="https://i.imgur.com/dpdR0fl.jpg" group-title="România", Loma Linda
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_1200_20240909T111516.m3u8
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-logo="https://i.imgur.com/i84en2H.jpg" group-title="România", Alfa&Omega TV
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-logo="https://i.imgur.com/a2ApGJO.png" group-title="România", Credo TV
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu",Geneza
+
+
+#EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Geneza
 https://media2.intercer.net/cartiaudio/biblia/01.Geneza.mp3
 #EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Exod
 https://media2.intercer.net/cartiaudio/biblia/02.Exod.mp3
@@ -149,289 +156,196 @@ https://media2.intercer.net/cartiaudio/biblia/66.Apocalipsa.mp3
 
 
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/ZlSOHBg.jpg" group-title="HopeChannel", International
-https://videodelivery.net/1eaa18c55e2558a400eab00dbde2caca/manifest/video.m3u8
-
+https://videodelivery.net/1eaa18c55e2558a400eab00dbde2caca/manifest/stream_t1_r1080001.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/AuO62QG.jpg" group-title="HopeChannel", Africa
-https://videodelivery.net/3dab4197cbdc656fa4a498285a3a4d67/manifest/video.m3u8
-
+https://videodelivery.net/3dab4197cbdc656fa4a498285a3a4d67/manifest/stream_t1_r1080001.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/Bd4sgIj.jpg" group-title="HopeChannel", Africa - Afrikaans
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/SaV8MVg.jpg" group-title="HopeChannel", Africa - Etiopia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730580546/ei/4TsmZ76jO7O16dsP54mS6As/ip/2a02%3A2f08%3Ad402%3A8f00%3A6553%3A87d%3Af190%3Afa4b/id/9472307d4864fc0f/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr5---sn-gqn-ungs.googlevideo.com/met/1730558946%2C/mh/Qg/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/5/pl/36/rms/au%2Cau/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1362500/vprv/1/go/1/rqh/5/mt/1730558468/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51312688%2C51326932/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIge5gOrvDAN2xmdWmPXdWNro2g5lSAx5nWu9RVIH02GJECIQCwJLipS1Q7RP5OCM94GX42Q4SXr3jhsaGPfTsyy_u9eA%3D%3D/lsparams/playback_host%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/ACJ0pHgwRgIhAL1k5P5ayAVoOkzJv_B5rf1lYh74A0nKw0WSreP5Q5_pAiEAkE5Dk-_kx_ulqNcE8sn5wH95hdrU4S4iNNbOS-F9mi8%3D/file/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705148289/ei/ISuiZeyjBaKhi9oP65CckAU/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/810a934a7deeaad1/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D1168993344%3Bdur%3D3655.960%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1704993494521666/rqh/1/hls_chunk_host/rr1---sn-gqn-ung6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/yx/mm/31,29/mn/sn-gqn-ung6,sn-c0q7lns7/ms/au,rdu/mv/m/mvi/1/pl/52/initcwndbps/1967500/vprv/1/playlist_type/DVR/dover/13/txp/5319224/mt/1705126382/fvip/4/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRQIhAMkush5ShGM4Y-keSxo6XlZG6lKnDkJN8PGzRjMjVIXiAiB4vcOUo3gJ7gAacmRa124hpYpQEBD1bVerIn0lV9Kq1Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRAIgEnhB8nG1vyRInmSCz8lzlsEgVvfuj-sP1fIDtktAFnMCIFnvIZix3x36Bgonfyr5i4tA_zFGe11lQxe5OB-DrUek/playlist/index.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/yHTuN0T.jpg" group-title="HopeChannel", Africa - Ghana
-https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
-
+https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/stream_t1_r480001.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/ITlqdZd.jpg" group-title="HopeChannel", Africa - Kenya
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730580959/ei/fz0mZ976GJa0svQPj_XjUA/ip/2a02%3A2f08%3Ad402%3A8f00%3A6553%3A87d%3Af190%3Afa4b/id/d16caf0387ab441a/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr1---sn-gqn-ung6.googlevideo.com/met/1730559359%2C/mh/ZA/mm/31%2C29/mn/sn-gqn-ung6%2Csn-c0q7lnsl/ms/au%2Crdu/mv/m/mvi/1/pl/36/rms/au%2Cau/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/pcm2/no/initcwndbps/1315000/vprv/1/go/1/rqh/5/mt/1730558950/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51312688%2C51326932/dover/13/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cpcm2%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALKQtr0Im7GAFQEKxDgTg_yFqDExXkXcCB3K1TpUXK_7AiAzy8TAZpRVK2TP31Mmz94VDRPdaAjGUNpG60VxCUPUJw%3D%3D/lsparams/playback_host%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/ACJ0pHgwRgIhAMxn2vh7y97H7z4uMsP9RCKULDxJd9pIBfQ-bBbP4R15AiEAjbE2lIkenfv61VWraI0kMFTDMke5S_tYLHwQDaW2hEw%3D/file/index.m3u8
-
+https://videodelivery.net/0590f56b8092f8c130ee9fa7ebe782f7/manifest/stream_t1_r720001.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/eQ9ZnSH.jpg" group-title="HopeChannel", Africa - Malawi
-https://customer-x8zydurm357k8j9p.cloudflarestream.com/b52f9ae91a674db95d405737ad56096f/manifest/video.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705150854/ei/JjWiZe_ZKqbIi9oP36G82A8/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/9ae7dd1bfe335ab7/itag/232/source/youtube/requiressl/yes/ratebypass/yes/otfp/1/pfa/1/sgovp/clen%3D204273439%3Bdur%3D1663.440%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1668513092778763/rqh/1/hls_chunk_host/rr2---sn-gqn-ung6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/i2/mm/31,29/mn/sn-gqn-ung6,sn-c0q7lnz7/ms/au,rdu/mv/m/mvi/2/pl/52/initcwndbps/2300000/vprv/1/playlist_type/DVR/dover/13/txp/6216224/mt/1705128802/fvip/4/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,otfp,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRAIgAaRQHSnCVm262cAiddC7gzFYnJNqod9WM_eh63chtxQCIFGVEOYJvMDx_QzKtUizhpqCrvJB0dToUtT-tXYT-BoC/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRQIhAPpnopKyIiWmRFQNvXWBccJ_H5XSeCNvuj0W6w8L9mMiAiA2zU2z9xxAsF4IY0f0QFHvHIsQCEKxdzVl_FjLV_fnYw%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/95Nxerv.jpg" group-title="HopeChannel", Africa - Namibia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730581183/ei/Xz4mZ8zkAffi6dsPvo7V-A8/ip/2a02%3A2f08%3Ad402%3A8f00%3A6553%3A87d%3Af190%3Afa4b/id/cd7fe55a68d853e4/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr4---sn-gqn-ungs.googlevideo.com/met/1730559583%2C/mh/e7/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/4/pl/36/rms/au%2Cau/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1420000/vprv/1/go/1/rqh/5/mt/1730559189/fvip/2/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51312688%2C51326932/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVKC28NkXRTho-N1558AeHPb0W3GglqxaD0qbIkearU8CIQDqaVc0EqB3fJngqvoT0xLQMfvipcPghXN-NXSwcWf5yA%3D%3D/lsparams/playback_host%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/ACJ0pHgwRQIgbrLIrkkINc7PuBes_Fww4FnmnXrPFDYXvWzxobSUpFYCIQCLS5FP0DQdxeaVNz5WwHs8vioZTa2nA7QRD8E5z37Wtg%3D%3D/file/index.m3u8
-
+https://archive.org/download/iptvtester/indisponibil.mp4
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/9FUFj5L.jpg" group-title="HopeChannel", Africa - Ocean Indien
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730581270/ei/tT4mZ7zYOZjKi9oPs7WHuAk/ip/2a02%3A2f08%3Ad402%3A8f00%3A6553%3A87d%3Af190%3Afa4b/id/9095c4a9697855d9/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr3---sn-gqn-ungs.googlevideo.com/met/1730559669%2C/mh/Oe/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/3/pcm2cms/yes/pl/36/rms/au%2Cau/tx/51324825/txs/51324825%2C51324826%2C51324827%2C51324828/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1468750/vprv/1/go/1/rqh/5/mt/1730559433/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51312688%2C51326932/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgX9vFnNHlBxV0UnTMbwBeN6xIknFVblReLv_xF8aRWGkCIFrUFYOnQipy_3rhJ5xvpgWwGVBRRhsETZWouI190NxW/lsparams/playback_host%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps/lsig/ACJ0pHgwRAIfHreRuJ00B3Uu1Sq9HQC55prUQpT21MKiTlRU-Xao6gIhANqT_XOq9uDAglx3uzaYrRCVBLR8oH-yIaH-L3J9SCKQ/file/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705150535/ei/5zOiZc2QCKWDi9oP_OiSuAk/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/4275cb39f294636f/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D287377907%3Bdur%3D1269.960%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1675743213899762/rqh/1/hls_chunk_host/rr7---sn-gqn-ungs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/nX/mm/31,29/mn/sn-gqn-ungs,sn-c0q7lnly/ms/au,rdu/mv/m/mvi/7/pl/52/initcwndbps/2031250/vprv/1/playlist_type/DVR/dover/13/txp/6216224/mt/1705128066/fvip/2/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRQIhAKC3JRKOf9HfEQE8xLqYJ4a_HphpD23f2hNXziLC_dV7AiA_VvbF35DGA-9kWeQ2OZ1hgDbDyb2df3_ctnWu-3hAcQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRQIgRvKHAxQXbqaJWKF8CzTc83ZHO01NN-HSirMZLCL1kOoCIQCkS6YetQywTpCJqbUVbzFgcltErrsVquxfTevhCLC1hw%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/QgdysU7.jpg" group-title="HopeChannel", Africa - Tanzania
-https://videodelivery.net/fff82018a2bb5bc0be6d5768825b2646/manifest/video.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705152056/ei/2DmiZc2YJ73Hi9oPtICp-AY/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/2035bfc578242a05/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D2642710893%3Bdur%3D8885.666%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1705036312881267/rqh/1/hls_chunk_host/rr2---sn-gqn-ung6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/r3/mm/31,29/mn/sn-gqn-ung6,sn-c0q7lnse/ms/au,rdu/mv/m/mvi/2/pl/52/force_finished/1/initcwndbps/2173750/vprv/1/playlist_type/CLEAN/dover/13/txp/7209224/mt/1705129983/fvip/5/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRgIhALpR0crRAu8JpDc6-LD54yvJ6KCjxGF1UFxPZ622CP3zAiEAlj_QRf307NvoXfYvwAtvWjkH20dT2lJme0Xwefat4wg%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRQIgB1w_TwKdGSeQoQxwm3m_8njH2VCAt5sp7zx84ur4mUECIQCHSxWrRAkoZVGjg8gSDfJEhz_GGJeVzPWmxVK9QokrEA%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/6WRFhyn.jpg" group-title="HopeChannel", Africa - Uganda
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730581467/ei/ez8mZ7GMM_Hm6dsPnrm32QE/ip/2a02%3A2f08%3Ad402%3A8f00%3A6553%3A87d%3Af190%3Afa4b/id/78ef909e92fc2ed8/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr5---sn-gqn-ungs.googlevideo.com/met/1730559867%2C/mh/MK/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/5/pl/36/rms/au%2Cau/tx/51326650/txs/51326650%2C51326651%2C51326652%2C51326653%2C51326654%2C51326655%2C51326656/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1468750/vprv/1/go/1/rqh/5/mt/1730559433/fvip/5/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51312688%2C51326932/dover/13/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANIzWG1Q6QP13RcdF1rU3T4MajIgN0qv9gMRvZ-gdXLIAiBLS2GxpvG_o5UmqBpJ9GQdRLIJIDDXzAzlk2OJ0y1Qcg%3D%3D/lsparams/playback_host%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/ACJ0pHgwRQIhALp7vHIgJyKVom3VgFmgnOZIklLDYra9a2KaLdBg-30jAiA8pIrxaLWPLnaWMx11aaRN4F0vKGLcGiEyeHg0QaFdxw%3D%3D/file/index.m3u8
-
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/08b48011ee25dc5be997adbfd936eef6/manifest/stream_t1_r720001.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/5ELicIn.jpg" group-title="HopeChannel", Africa - Zambia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730581579/ei/6z8mZ7nRMIG26dsPiKaX-Ao/ip/2a02%3A2f08%3Ad402%3A8f00%3A6553%3A87d%3Af190%3Afa4b/id/46b35de6eb408338/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr2---sn-gqn-ung6.googlevideo.com/met/1730559979%2C/mh/8M/mm/31%2C29/mn/sn-gqn-ung6%2Csn-c0q7lnly/ms/au%2Crdu/mv/m/mvi/2/pl/36/rms/au%2Cau/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1286250/vprv/1/go/1/rqh/5/mt/1730559664/fvip/2/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51312688%2C51326932/dover/13/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgC1-kDqmzusSuAu-pLT0BFmRvBclVYBjYwXEJtASi-b4CICJqWMN3CB78XN38ihYYfQuMGvvXtfDOYWIwkgOt_zil/lsparams/playback_host%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/ACJ0pHgwRAIgATNWhooHyauumJV0i9ZOTfDJqk44wIXHsi5Zhs5csccCIDNXsCJSbTp-HU273Pv4XEt30d7zOH5AYq4APabLt_HI/file/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705152565/ei/1TuiZeDJA5SDi9oPp5G-4A4/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/cf3fc911e2b6d6cd/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D2003488676%3Bdur%3D5311.466%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1700701150616871/rqh/1/hls_chunk_host/rr1---sn-gqn-ung6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/Ta/mm/31,29/mn/sn-gqn-ung6,sn-c0q7lnsl/ms/au,rdu/mv/m/mvi/1/pl/52/force_finished/1/initcwndbps/2060000/vprv/1/playlist_type/CLEAN/dover/13/txp/7209224/mt/1705130468/fvip/1/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRQIgYQf6tfB4EEDBPSOIzvmgrRJeTi3Gi0tmx5R62KKGKZECIQCpvGQyONOAfjn3L9ZP5hPjbi7hsGf-YBCc85-fDmL2Ng%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRQIhAOqFMLQWWPSXTF-OB_rs304O2l1c0bhjwOoRJco8WM1zAiBwpH1xtAhxWw9ywUl2ege-tZVwF_Oox4bGFTQeYee9NA%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/XO5sefC.jpg" group-title="HopeChannel", Africa - Zimbabwe
-https://archive.org/download/iptvtester/indisponibil.mp4
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705152824/ei/2DyiZZ3_NrXR6dsPpMGMyA8/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/9d06c406cc8c8735/itag/312/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D5031350004%3Bdur%3D13969.100%3Bgir%3Dyes%3Bitag%3D299%3Blmt%3D1694019788547244/rqh/1/hls_chunk_host/rr4---sn-gqn-ungs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/R6/mm/31,29/mn/sn-gqn-ungs,sn-c0q7lnsl/ms/au,rdu/mv/m/mvi/4/pl/52/force_finished/1/initcwndbps/2121250/vprv/1/playlist_type/CLEAN/dover/13/txp/7209224/mt/1705130948/fvip/2/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRAIgO-PhmBGyaCiK8vruPAHTtu3Y_MOU9Ugkjc0C0CGVOPACIC35dZihSYchH_PlDt_ONRZsew_yd8dfMpSWgjmtAZgz/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRQIhAJ_yEeK3lB0mNlokOo1yw64H7BowY9kU-vEHC3BCJzf9AiBz9JFyPgjaQHSs4FC4X5quect98wCosdQ3SFF60-QHYg%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/at83epk.jpg" group-title="HopeChannel", Africa - Mozambique
-https://archive.org/download/iptvtester/indisponibil.mp4
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705153856/ei/4ECiZeqfDo2_i9oPnYCO4Ao/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/346eecc34beaba35/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D4449209104%3Bdur%3D20719.530%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1694887448430410/rqh/1/hls_chunk_host/rr3---sn-gqn-ung6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/p9/mm/31,29/mn/sn-gqn-ung6,sn-c0q7lnsl/ms/au,rdu/mv/m/mvi/3/pcm2cms/yes/pl/52/force_finished/1/initcwndbps/1900000/vprv/1/playlist_type/CLEAN/dover/13/txp/5309224/mt/1705131909/fvip/4/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRgIhAI3iph6O1MdK952eYsWxlhdE0LGdrl_C17h7bs3-QqWSAiEAvgcg2SZe7XyqsWElO3yQf-gPtv5OQ54h7V53d35BY0A%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,initcwndbps/lsig/AAO5W4owRgIhAPJOHbF2lhzzUVbzES9tQxtjMfs6tA4m3j9EwFFmnz77AiEAtNHTwpJCke9_Y0kWsLB5Lk5enOymmnxpg2AlmjnQqAA%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/AS0C4nd.jpg" group-title="HopeChannel", Nord America
-https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/video.m3u8
-
+https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/stream_t1_r1080001.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/i5LHUNE.jpg" group-title="HopeChannel", Nord America - Canada
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/Y1C2pJx.jpg" group-title="HopeChannel", Nord America - Deaf
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/YatBFxD.jpg" group-title="HopeChannel", Nord America - Esperanza
 https://videodelivery.net/a23831aa01c4a0fd802360b889ea96ed/manifest/stream_t1_r1080001.m3u8
 
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/EoXVK0R.jpg" group-title="HopeChannel", Inter-America - English
 https://videodelivery.net/5dc01951fa0b9a57997e8be5cc50b29b/manifest/stream_t1_r1080001.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/YC3MJiM.jpg" group-title="HopeChannel", Interamerica - Espanol
 https://videodelivery.net/75bc18929102141938b334b01793ca3e/manifest/stream_t1_r1080001.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/QRt8OaP.jpg" group-title="HopeChannel", Interamerique - French
 https://archive.org/download/iptvtester/indisponibil.mp4
 
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/3y25WdX.jpg" group-title="HopeChannel", South America - Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/IVpucWi.jpg" group-title="HopeChannel", South America - Nuevo Tiempo
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/1YgMYBK.jpg" group-title="HopeChannel", Asia - Al-waad
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/qv0qVzQ.jpg" group-title="HopeChannel", Asia - Chinese
 https://videodelivery.net/07c709813199692f475a30a22afa1c5a/manifest/stream_t1_r1080001.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/gUbpMQh.jpg" group-title="HopeChannel", Asia - Central Asia
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705157435/ei/206iZd6vIuuI6dsP_Y-UwAI/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/086c7512df519328/itag/232/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D377623893%3Bdur%3D4236.633%3Bgir%3Dyes%3Bitag%3D136%3Blmt%3D1588609746638828/rqh/1/hls_chunk_host/rr4---sn-gqn-ungs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/4T/mm/31,29/mn/sn-gqn-ungs,sn-c0q7lnse/ms/au,rdu/mv/m/mvi/4/pcm2cms/yes/pl/52/force_finished/1/initcwndbps/1920000/vprv/1/playlist_type/CLEAN/dover/13/txp/7316222/mt/1705135514/fvip/5/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRAIgWydhoL-iTcKCGKzSro1gC8TXFGXtzulwVAWyIrBVCswCIBVNv9hmReeWyrvFdRrCkEESqOMfX7esSnR-ynIvL3Wk/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,initcwndbps/lsig/AAO5W4owRgIhALvKqL8wi2Kr-PWan27yJV7ZKlfXf1Fywi2eaI5n2CxDAiEAid9A62vxFArnNPKCHAEpwwzN1T3pOFJ4DLXda03FvME%3D/playlist/index.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/GpC2IVL.jpg" group-title="HopeChannel", Asia - India
 https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/stream_t1_r1080001.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/EmqxSnj.jpg" group-title="HopeChannel", Asia - Indonesia
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705810924/ei/jEesZfbmL_egi9oPpdK7gAg/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/324732c55f9783de/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr7---sn-gqn-ungs.googlevideo.com/mh/Yx/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/7/pl/40/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1025000/vprv/1/go/1/mt/1705789017/fvip/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANfshGJ-IWDtFeuRRkQKPHKoRUuyJDxSXxSlxn3dDuUvAiEAhnuxCd8aIxda-mJaIEhRtugnUVvw76NtQzWTMeoNY7M%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRAIgN4vidtxL9M98ZLxTOsIB_mCMaBETalx6v8fU7zJS90YCIFX2K7vvT2n_e4QRg4GX2h2b39sJMiamIXZomMQ5vizz/file/index.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/qntBdVu.jpg" group-title="HopeChannel", Asia - Israel
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705810840/ei/OEesZerYE4aUi9oPvNai4Ac/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/0b8d7188142297fe/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr2---sn-gqn-ung6.googlevideo.com/mh/TV/mm/31%2C29/mn/sn-gqn-ung6%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/2/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1198750/vprv/1/go/1/mt/1705788778/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCchiLpApwQ30RZ6AAdFOSPKmuz8NJ_wW1BNUtW516VsCIC8BzC9RcqSjAwIcOnQ_-GkhHmM84fcrXYwxISKLI8h8/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRQIgW8Fs1egg8ukW8jlZDyyp5Q0YGya_0xU8SN8d0H2gxpACIQCQeVbmriloe-1yTQ_onuluVvsDB45BV66bwoZCiVuiFg%3D%3D/file/index.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/s9IHMJo.jpg" group-title="HopeChannel", Asia - Japan
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/LAOtNk3.jpg" group-title="HopeChannel", Asia - Korea	
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705810734/ei/zkasZeeiGqHCi9oP0JiU-A0/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/503de0dafac6c867/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr3---sn-gqn-ung6.googlevideo.com/mh/X5/mm/31%2C29/mn/sn-gqn-ung6%2Csn-c0q7lnsl/ms/au%2Crdu/mv/m/mvi/3/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1198750/vprv/1/go/1/mt/1705788778/fvip/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL_J6JcviXnMWrK5WaHhOxApnRSAnAShO4Mol9J0pVglAiAplpawJWT13PKO0m4mOEZzMB1eEKP8q2xHMeFL5c5zmw%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRQIhAIYa9h45sDhtFyOuhWXbCzmdrRBcY2rq8Q2GOMKrtfVPAiBSuevvaR5gYPBVZ6V-AC7kzn-YxQpkcsdlU-nzwM5sww%3D%3D/file/index.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/mCyK026.jpg" group-title="HopeChannel", Asia - Philippines
 https://customer-x8zydurm357k8j9p.cloudflarestream.com/e9a0f1b659e4a6052fa798846914a4f7/manifest/stream_t1_r720001.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/WM6NDGr.jpg" group-title="HopeChannel", Asia - Singapore
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705810432/ei/oEWsZfSRH5XSi9oPzKeTgA0/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/2b4850063ecb6ad8/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr7---sn-gqn-ungs.googlevideo.com/mh/Yb/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/7/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1015000/vprv/1/go/1/mt/1705788539/fvip/2/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLTeRUxtTMc3CFmd16IYNhm09TRxoZlzk_Hzy4w4NVJICIBjOf5zNl5vLSNcZbqOEq8E5Sw72EIN6IOqd3ol0U6PF/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRgIhAIWm9wPRB2IDjbQe6hUjn2ribz8v2jFTnAzik8bxhzsIAiEAt3YIoXlzCqQxcGulITDMrDaCmgDRVQGjIuFQ4v84yko%3D/file/index.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/pHdehDD.jpg" group-title="HopeChannel", Asia - Southeast Asia
 https://videodelivery.net/5da0759be00c37e8acaac650284512c9/manifest/stream_t1_r1080001.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/TUunkrw.jpg" group-title="HopeChannel", Asia - Sri Lanka
 https://archive.org/download/iptvtester/indisponibil.mp4
 
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/0apzo1U.jpg" group-title="HopeChannel", Europe - Albania
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705808756/ei/FD-sZfKCJvPL6dsPypuDqAs/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/2b1cd7be3400a803/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr2---sn-gqn-ungs.googlevideo.com/mh/tH/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnly/ms/au%2Crdu/mv/m/mvi/2/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/965000/vprv/1/go/1/mt/1705786864/fvip/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKrXiFTBZT6B1O4xJqU9y_Nq_JCHYdIhY5gnuXy105D0AiEA3AAsG0tXQOcHE8XbulQE0YzzCBwMEiLKszWDr3pHW_Q%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRAIgJhp48qFYOFsnu_TM5KX7z35TRMC4n8vDgq_ql1O3VIoCIBbS-S7GdFrexrV0W_1FZ_6XS67-5z2yekhzmCHEJQpW/file/index.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/Zt5cCt1.jpg" group-title="HopeChannel", Europe - Bulgaria
-https://hc1.hopetv.bg/live/hopetv_all.smil/chunklist_w1504558387_b5192000_slbg.m3u8
-
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/m4Ljiux.jpg" group-title="HopeChannel", Europe - Danmark
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/fx421tW.jpg" group-title="HopeChannel", Europe - Finland
 https://3vod-adaptive.akamaized.net/exp=1705160645~acl=%2F31a69405-2022-473e-9d80-69d0cf59d30a%2F%2A~hmac=679c93a4e2ea251b44314049fd2073f9801e9ea6ada4896ed0dfe1ffc08a2c81/31a69405-2022-473e-9d80-69d0cf59d30a/sep/video/00b467e5,86fa628c,a9f1ba83,f961e483,fe058755/audio/5bb36ce9,d39a793d,dc731239/dash-video.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/QIiGNkV.jpg" group-title="HopeChannel", Europe - France
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/JofSZ67.jpg" group-title="HopeChannel", Europe - Norge
 http://media1.adventist.no:1935/live/hope3/chunklist_w1689796912.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/8zk1122.jpg" group-title="HopeChannel", Europe - Polska
 https://42vod-adaptive.akamaized.net/exp=1705159086~acl=%2F9d0fb63a-a49f-4494-b1f7-ec910c8f9989%2F%2A~hmac=b187008165be06bac821bc8cc8754c491983494a7e3ad987822592ae46f01ae4/9d0fb63a-a49f-4494-b1f7-ec910c8f9989/sep/video/3cd11e02,a2aa2997,e78bf381,f7ee6ba7/dash-video.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/NJxeCmz.jpg" group-title="HopeChannel", Europe - Sweden
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/mOPxuJM.jpg" group-title="HopeChannel", Europe - Island
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730579194/ei/mjYmZ8ueF7WC6dsP_PfYsQ8/ip/2a02%3A2f08%3Ad402%3A8f00%3A6553%3A87d%3Af190%3Afa4b/id/70d669f1c82b0d7a/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr8---sn-gqn-ungs.googlevideo.com/met/1730557594%2C/mh/vR/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lns7/ms/au%2Crdu/mv/m/mvi/8/pl/36/rms/au%2Cau/tx/51241482/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1386250/vprv/1/go/1/rqh/5/mt/1730557276/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51312688%2C51326932/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOl_9ziO_7KCiPwMrE_Q8Ki2TxkhTDyuqs_2bLfhOB9MCIQDegrurO6cjWPxtn0vTI5a3_1BK9p51msEc5vp6u-YE6g%3D%3D/lsparams/playback_host%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/ACJ0pHgwRQIgXD0GKNAIooonQPd7IYD1OoqG5OAyt5Ce10kCbGJtlzcCIQCtOqvQwen8BlGkODKztsCCPa_avzemLHwUKhgJmLxi0A%3D%3D/file/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705810149/ei/hUSsZYwlscLp2w-sp66IDA/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/fa7403fd14910c47/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr3---sn-gqn-ung6.googlevideo.com/mh/CC/mm/31%2C29/mn/sn-gqn-ung6%2Csn-c0q7lnsl/ms/au%2Crdu/mv/m/mvi/3/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/1151250/vprv/1/go/1/mt/1705787821/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSWlB4PUK485dXB7NfniT--GfJ939ClAWwfTyU9qEN4MCIA0PsAZrrxaRst6loAn0-wsXY24NPkyS5RdlmmAT8zDA/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRgIhAOEuFvrZFs3H85s2BXjgl5ztfqgNqSwQjp-6aVZacFvrAiEA7GIqKd6VnPy4AZWVDtd7qbX_wbBOdc3WckXNYveQ7po%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/YfpsYi5.jpg" group-title="HopeChannel", Europe - Ceska
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/QZGSzip.jpg" group-title="HopeChannel", Europe - Croatia
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705808447/ei/3j2sZeSmOsLc1gKVr7OIDQ/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/a49f7417b0b135c1/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr8---sn-gqn-ungs.googlevideo.com/mh/J9/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lns7/ms/au%2Crdu/mv/m/mvi/8/pl/40/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/987500/vprv/1/go/1/mt/1705786617/fvip/1/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbwCXffwm4gjMnlT9-s_8ePsRNvsSl2aE-kFQhnU9_9wCIAurhFSqq42eoo71sc8dN_Mvlt2h4DNCJCup4_yQ0jpK/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRAIgO7R64SDwGNsNkStTBH2mZOZDLn3bMJ-SZRMUEiAxXXcCIHML7vsUY9UMQWHY3FFCdwgdIuj5WzUDZa-y3yeHOxbu/file/index.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/Oimzfu0.jpg" group-title="HopeChannel", Europe - Italia
 https://avventisti.tv:1935/AvventistiUICCA/LiveHLS/chunklist_w1838277114.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/YxN34IJ.jpg" group-title="HopeChannel", Europe - Germany
 https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/stream_t1_r1080001.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/A76d0Uw.jpg" group-title="HopeChannel", Europe - UK
 https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/stream_t1_r1080001.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/fzJ9KXV.png" group-title="HopeChannel", Europe - Portugal
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/jxlWJj6.jpg" group-title="HopeChannel", Europe - Spain
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/mIE7wdR.png" group-title="HopeChannel", Europe - Hungary
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705807899/ei/uzusZbrXJbLMi9oPtuqU2AE/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/86fd96646a524899/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr7---sn-gqn-ungs.googlevideo.com/mh/vD/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnse/ms/au%2Crdu/mv/m/mvi/7/pcm2cms/yes/pl/40/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/981250/vprv/1/go/1/mt/1705786135/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQ5P1s_73_il26rZxCSaN9Fm6kzQvp_G5s1C9_6h1sGQCIFxY_AP_k2ZM9wOHfSh0XLwA_uHk7JrxOlkH7Uc4rk_W/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRgIhALXCWUnkLANHq6vajWa8D9Ct1qBa6yuxuUyBEqXZ9AOSAiEAio18kSNbY0W_rWgOg_flUt6OWNMjmfqviK7rL4xGAkY%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/rNdWODH.jpg" group-title="HopeChannel", Europe - Romania
 https://customer-x8zydurm357k8j9p.cloudflarestream.com/0dd00c080ff4cbe839a12c923610a55c/manifest/video.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/PlUraN7.jpg" group-title="HopeChannel", Europe - Russia
 https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/CPkrbPH.jpg" group-title="HopeChannel", Europe - Slovenia
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705809286/ei/JkGsZbS1BJ6Wi9oPt7uO6AE/ip/2a02%3A2f08%3Ad301%3A900%3A19c1%3Ab664%3A6eae%3Ab147/id/bc8fd9749c7525a7/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr8---sn-gqn-ungs.googlevideo.com/mh/dN/mm/31%2C29/mn/sn-gqn-ungs%2Csn-c0q7lnz7/ms/au%2Crdu/mv/m/mvi/8/pl/40/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/960000/vprv/1/go/1/mt/1705787344/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOVBfzMCw1i4B5Pb1X5dXUSZ3pV00ia6z8939oM30TbhAiBkyiwq3_Q5Y0POkE2mByNSdvqV30lEdqfF8JCJ70SEaA%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRgIhAPjaw30u-AApphxjUDI3mxr9WCfsPWvLyls7Rvn3UkrSAiEAsy4TFp2WvpmbDlU9hrfpKRM1ReRp84tbnIHLq330uAo%3D/file/index.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/RvyJtmr.jpg" group-title="HopeChannel", Europe - Ukraine
 https://videodelivery.net/d0ee49a1cfc0ebd7020fcaa144fc7475/manifest/stream_t1_r720001.m3u8
 
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/xOGumEb.jpg" group-title="HopeChannel", Oceania - American Samoa
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705164538/ei/mmqiZfPDJ4eki9oP1oKnqAo/ip/2a02:2f08:d205:7d00:f1a2:7cf2:ad08:b185/id/5a349642acaf7f19/itag/270/source/youtube/requiressl/yes/ratebypass/yes/otfp/1/pfa/1/sgovp/clen%3D2299602455%3Bdur%3D11391.765%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1654981568640870/rqh/1/hls_chunk_host/rr6---sn-gqn-ungs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/v1/mm/31,29/mn/sn-gqn-ungs,sn-c0q7lnly/ms/au,rdu/mv/m/mvi/6/pl/52/force_finished/1/initcwndbps/1867500/vprv/1/playlist_type/CLEAN/dover/13/txp/7216224/mt/1705142704/fvip/1/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,otfp,pfa,sgovp,rqh,xpc,force_finished,vprv,playlist_type/sig/AJfQdSswRQIgNpMD5HUHFICQy4CK2PzC6RW9uguFtbH4bfwWzpeIUbgCIQDcf_X4GYrYNUDfN54xG0FUaodgsdIXR5-VmmQNa5j3pg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRgIhAKe4a5x7kQViClXs34UMh40oM-aiGKXioQDD6vXK2DpMAiEA5AFSzVzren1nYKFxrGQyQgUwQCBOYa-qGgTSvQhO2L0%3D/playlist/index.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/VLWp7iH.jpg" group-title="HopeChannel", Oceania - Australia
 https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/stream_t1_r1080001.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/xUIyw6Q.jpg" group-title="HopeChannel", Oceania - Cook Island
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/H3yxdHa.jpg" group-title="HopeChannel", Oceania - Fiji
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/WPLKTYd.jpg" group-title="HopeChannel", Oceania - New Zealand
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/e46cdf99f97b45e597a5a608b908a44a/chunklist_b4628000.m3u8
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/pRsvXe4.jpg" group-title="HopeChannel", Oceania - Samoa
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/pZ7wgjX.png" group-title="HopeChannel", Oceania - Solomon Islands
 https://archive.org/download/iptvtester/indisponibil.mp4
-
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-logo="https://i.imgur.com/69k9FFN.jpg" group-title="HopeChannel", Oceania - Tonga
 https://archive.org/download/iptvtester/indisponibil.mp4
 
 
 
-
-
 #EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/vPU0hH4.jpg" group-title="Internațional", 3ABN
-https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
-
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/chunklist_w724785929_b1628000_slen.m3u8
 #EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/0y80bQd.jpg" group-title="Internațional", 3ABN Proclaim!
-https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
-
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/chunklist_w1478058510_b1928000_slen.m3u8
 #EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/fG2trfF.jpg" group-title="Internațional", 3ABN Dare to Dream
-https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
-
+https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/chunklist_w1350335840_b1928000_slen.m3u8
 #EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/zRcof07.jpg" group-title="Internațional", 3ABN International
-https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/xSpAnQx.jpg" group-title="Internațional", 3ABN Canada
-https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
-
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/chunklist_w1799429052_b1928000_slen.m3u8
+#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://imgur.com/xSpAnQx" group-title="Internațional", 3ABN Canada
+https://3abn.bozztv.com/3abncanada/3ABN/HD720/HD720.m3u8
 #EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/xX8UK6o.jpg" group-title="Internațional", 3ABN Praise HIM
-https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/chunklist_w1169575018_b2128000_slen.m3u8
 #EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/tOxA2pp.jpg" group-title="Internațional", 3ABN Kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w1802084642_b1928000_slen.m3u8
 #EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/HohCoNP.jpg" group-title="Internațional", 3ABN Latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w598262332_b1928000_slen.m3u8
 #EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/k2kWsIE.jpg" group-title="Internațional", 3ABN Russia
-https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
-
+https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/chunklist_w693433026_b1928000_slen.m3u8
 #EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/P9k95IZ.jpg" group-title="Internațional", 3ABN Francais
-https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/chunklist_w829509096_b1928000_slen.m3u8
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/GOq2rRf.jpg" group-title="Internațional", Loma Linda - His Word
 https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream_2250_20240117T022241.m3u8
-
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/3IIG36Q.jpg" group-title="Internațional", Loma Linda - His Light
 https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream_2250_20240117T021524.m3u8
-
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/Mv3hupE.jpg" group-title="Internațional", Loma Linda - Smart Life Style
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream_2250_20240104T171132.m3u8
-
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/y6TeH6q.jpg" group-title="Internațional", Loma Linda - Arabic
 https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream_1200_20240104T171322.m3u8
-
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/AD27Bi5.jpg" group-title="Internațional", Loma Linda - Chinese
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream_1250_20231215T022941.m3u8
-
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/FwyiRYB.jpg" group-title="Internațional", Loma Linda - Korean
 https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream_1250_20231215T023518.m3u8
-
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/XrJymMS.jpg" group-title="Internațional", Loma Linda - Latino
 https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream_1200_20231130T130532.m3u8
-
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/dpdR0fl.jpg" group-title="Internațional", Loma Linda - Romanian
-https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_1200_20240909T111516.m3u8
-
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_1200_20240201T074949.m3u8
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/MtzYEfS.jpg" group-title="Internațional", Loma Linda - South Asia
 https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream_1200_20240104T171304.m3u8
-
 #EXTINF:-1 tvg-id="safe" tvg-logo="https://i.imgur.com/gMdNrsq.png" group-title="Internațional", Safe TV
-	
 https://hls-live-web-media.cdn01.net/default/stream_10250.m3u8?6l2BMT5JHovCOIgLCY4tz4yi6swCesmVbQF3ZK5Ffrkq7Z4zvS9Zo_oLDvRTCDCQ8SQaNGJKa4monFYe4CdcLNai2OfPS3FOdpPz0_7NeSa178HDHaW-BOZ_4n7vfwshwSFkwvPgdAl5Dnr6XYME2_n4_WhNxE9Rgu1StJIAzeHmkCrNEA3qtQt7vFzJcYwRpXvdJ8xSxkru&channel_id=10250&source=othersites&device_id=4523690541-a534fa7bb45a5ee35faff21cacceb40e&lcp=2&client_id=869065316981851594&play_id=1709920131117755
-
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/kyltIQp.png" group-title="Internațional", TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/chunklist_w1915005982.m3u8
-
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/xafBx2G.png" group-title="Internațional", Light Channel Bulgaria
 https://streamer1.streamhost.org/salive/hungarian/chunklist_w78367932.m3u8
-
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/EH75UpK.png" group-title="Internațional", Light Channel Germany
 https://streamer1.streamhost.org/salive/lctvde/chunklist_w1203233758.m3u8
-
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/mv5VIUZ.png" group-title="Internațional", Light Channel Hungary
 https://streamer1.streamhost.org/salive/hungarian/chunklist_w1838931908.m3u8
-
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/enygbEe.jpg" group-title="Internațional", Light Channel Portugal
 https://streamer.terceiroanjo.com/salive/GMI3anjom/chunklist_w1625110522.m3u8
-
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/9oKcM9E.jpg" group-title="Internațional", Light Channel Espana
 https://streamer1.streamhost.org/salive/GMIredadvenirHD/chunklist_w323722387.m3u8
-
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/S1HNdjH.jpg" group-title="Internațional", Smile of the child
 https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/live-audio_1=96000-video=1000000.m3u8
-
-
-
-
-
 
 
 
