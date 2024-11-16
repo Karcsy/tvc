@@ -6,6 +6,8 @@ https://customer-x8zydurm357k8j9p.cloudflarestream.com/0dd00c080ff4cbe839a12c923
 #EXTINF:-1 tvg-id="llbn.ro" tvg-logo="https://i.imgur.com/dpdR0fl.jpg" group-title="România", Loma Linda
 https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_1200_20240909T111516.m3u8
 #EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-logo="https://i.imgur.com/i84en2H.jpg" group-title="România", Alfa&Omega TV
+https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-logo="https://i.imgur.com/i84en2H.jpg" group-title="România", Alfa Omega Youth TV
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 #EXTINF:-1 tvg-id="CredoTV.ro" tvg-logo="https://i.imgur.com/a2ApGJO.png" group-title="România", Credo TV
 http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
@@ -313,23 +315,23 @@ https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/chunklist_w693433026_b
 #EXTINF:-1 tvg-id="3ABN" tvg-logo="https://i.imgur.com/P9k95IZ.jpg" group-title="Internațional", 3ABN Francais
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/chunklist_w829509096_b1928000_slen.m3u8
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/GOq2rRf.jpg" group-title="Internațional", Loma Linda - His Word
-https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream_2250_20240117T022241.m3u8
+https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/3IIG36Q.jpg" group-title="Internațional", Loma Linda - His Light
-https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream_2250_20240117T021524.m3u8
+https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/Mv3hupE.jpg" group-title="Internațional", Loma Linda - Smart Life Style
-https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream_2250_20240104T171132.m3u8
+https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/y6TeH6q.jpg" group-title="Internațional", Loma Linda - Arabic
-https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream_1200_20240104T171322.m3u8
+https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/AD27Bi5.jpg" group-title="Internațional", Loma Linda - Chinese
-https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream_1250_20231215T022941.m3u8
+https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/FwyiRYB.jpg" group-title="Internațional", Loma Linda - Korean
-https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream_1250_20231215T023518.m3u8
+https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/XrJymMS.jpg" group-title="Internațional", Loma Linda - Latino
-https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream_1200_20231130T130532.m3u8
+https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/dpdR0fl.jpg" group-title="Internațional", Loma Linda - Romanian
-https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_1200_20240201T074949.m3u8
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
 #EXTINF:-1 tvg-id="llbn" tvg-logo="https://i.imgur.com/MtzYEfS.jpg" group-title="Internațional", Loma Linda - South Asia
-https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream_1200_20240104T171304.m3u8
+https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8
 #EXTINF:-1 tvg-id="safe" tvg-logo="https://i.imgur.com/gMdNrsq.png" group-title="Internațional", Safe TV
 https://hls-live-web-media.cdn01.net/default/stream_10250.m3u8?6l2BMT5JHovCOIgLCY4tz4yi6swCesmVbQF3ZK5Ffrkq7Z4zvS9Zo_oLDvRTCDCQ8SQaNGJKa4monFYe4CdcLNai2OfPS3FOdpPz0_7NeSa178HDHaW-BOZ_4n7vfwshwSFkwvPgdAl5Dnr6XYME2_n4_WhNxE9Rgu1StJIAzeHmkCrNEA3qtQt7vFzJcYwRpXvdJ8xSxkru&channel_id=10250&source=othersites&device_id=4523690541-a534fa7bb45a5ee35faff21cacceb40e&lcp=2&client_id=869065316981851594&play_id=1709920131117755
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/kyltIQp.png" group-title="Internațional", TV Famille
@@ -346,6 +348,7 @@ https://streamer.terceiroanjo.com/salive/GMI3anjom/chunklist_w1625110522.m3u8
 https://streamer1.streamhost.org/salive/GMIredadvenirHD/chunklist_w323722387.m3u8
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/S1HNdjH.jpg" group-title="Internațional", Smile of the child
 https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/live-audio_1=96000-video=1000000.m3u8
+
 
 
 
