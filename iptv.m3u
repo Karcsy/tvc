@@ -1,48 +1,25 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România",Tvr 1
-https://tvr-tvr1.cdn.zitec.com/live/tvr1/main.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr 2
-https://tvr-tvr2.cdn.zitec.com/live/tvr2/main.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Kanal D
-https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Kanal D2
-https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Kapital Tv
-http://dinastyknight.go.ro:1936/ktv/myStream/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Ro Tv Valencia
-https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Telestar 1
-http://89.47.97.15/telestar/telestar.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tele 7 Abc
-https://live.tele7abc.ro/hls/stream/index.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Sport
-https://tvr-tvrsport.cdn.zitec.com/live/tvrsport/main.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Info
-https://tvr-tvrinfo.cdn.zitec.com/live/tvrinfo/main.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Pro Tv News
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Observator News
-https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Realitatea Plus
-https://stream.realitatea.net/realitatea/plus_hd/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Realitatea Sportiva
-https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Romania Tv
-#EXTVLCOPT:http-referrer=https://www.romaniatv.net/live
-https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Digi 24
-https://dai.google.com/linear/hls/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Digi 24
-https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Aleph News
-https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Aleph Smart Tv
-https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Nasul Tv
-https://5ab29cc78f681.streamlock.net:443/NasulTV/livestream/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Mooz Ro 
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozRo
-https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România",Tvr 1 https://tvr-tvr1.cdn.zitec.com/live/tvr1/main.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr 2 https://tvr-tvr2.cdn.zitec.com/live/tvr2/main.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Kanal D https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Kanal D2 https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Kapital Tv http://dinastyknight.go.ro:1936/ktv/myStream/playlist.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Ro Tv Valencia https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Telestar 1 http://89.47.97.15/telestar/telestar.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tele 7 Abc https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Sport https://tvr-tvrsport.cdn.zitec.com/live/tvrsport/main.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Info https://tvr-tvrinfo.cdn.zitec.com/live/tvrinfo/main.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Pro Tv News https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Observator News https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Realitatea Plus https://stream.realitatea.net/realitatea/plus_hd/playlist.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Realitatea Sportiva https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Romania Tv https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Digi 24 https://dai.google.com/linear/hls/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Digi 24 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Aleph News https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Aleph Smart Tv https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Nasul Tv https://5ab29cc78f681.streamlock.net:443/NasulTV/livestream/playlist.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Mooz Ro https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Mooz Hits
 #EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozHits
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
