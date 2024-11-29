@@ -19,44 +19,9 @@
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Aleph News https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Aleph Smart Tv https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Nasul Tv https://5ab29cc78f681.streamlock.net:443/NasulTV/livestream/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Mooz Ro https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Mooz Hits
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozHits
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Mooz Dance
-#EXTVLCOPT:http-referrer=https://mooz.tv/live-ro/#MoozDance
-https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Kiss Tv
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Magic Tv
-https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Rock Tv
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tele 7 Music
-https://live.tele7music.ro/hls/stream/index.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Atomic Tv
-https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Atomic Academy
-https://atomic.streamnet.ro/academia.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Impact Tv Dance
-https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Impact Tv Manele
-https://online.tvimpact.live/hls/impact_tv.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Impact Tv 2
-https://online.tvimpact.live/hls/impact_tv2.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Super Tv
-https://cdn.streamnet.pro/live/supertv/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Folclor
-https://tvr-tvrfolclor.cdn.zitec.com/live/tvrfolclor/main.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Rapsodia Tv
-http://92.86.248.141:8080/ram/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Inedit Tv
-http://89.45.18.22:1359/live/myStream/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Cultural
-https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr 3
-https://tvr-tvr3.cdn.zitec.com/live/tvr3/main.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Int.
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Cultural https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr 3 https://tvr-tvr3.cdn.zitec.com/live/tvr3/main.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Internațional
 https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Cluj
 https://tvr-tvrcluj.cdn.zitec.com/live/tvrcluj/main.m3u8
