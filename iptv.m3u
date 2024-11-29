@@ -20,7 +20,7 @@
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Aleph Smart Tv https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Nasul Tv https://5ab29cc78f681.streamlock.net:443/NasulTV/livestream/playlist.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Cultural https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr 3 https://tvr-tvr3.cdn.zitec.com/live/tvr3/main.m3u8
+#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="https://logowik.com/content/uploads/images/tvr3-20194158.logowik.com.webp" group-title="România", Tvr 3 https://tvr-tvr3.cdn.zitec.com/live/tvr3/main.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Internațional https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Cluj https://tvr-tvrcluj.cdn.zitec.com/live/tvrcluj/main.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tvr Craiova https://tvr-tvrcraiova.cdn.zitec.com/live/tvrcraiova/main.m3u8
