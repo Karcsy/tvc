@@ -124,7 +124,7 @@ http://85.186.146.34:8080
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tele M Botosani
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Ardeal Tv
-https://frn.rtsp.me/bZf4JvjPRqvgYUHlkUDa4g/1713632222/hls/yZ9ED27Q.m3u8?ip=
+https://frn.rtsp.me/bZf4JvjPRqvgYUHlkUDa4g/1713632222/hls/yZ9ED27Q.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Dotto Tv
 https://dotto.edvr.ro/live/index.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="România", Tv Arad
@@ -188,74 +188,3 @@ https://tezaurtv.md/wp-content/uploads/live/index.m3u8
 https://storage.voceabasarabiei.md/vocea/vocea.m3u8
 #EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Moldova", Privesc Eu (MD)
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Телеканал 1+1 Freeдom (UA)
-#EXTVLCOPT:http-referrer=https://uatv.ua/live/
-https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", M 2 (UA)
-https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Орбіта Тв (UA)
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Канал Дім (UA)
-#EXTVLCOPT:http-referrer=https://kanaldim.tv/live/
-https://kanaldom.cdn-04.cosmonova.net.ua/hls/kanaldom_ua_hi/index.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Надия Тв (UA)
-http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", TBN Україна (UA)
-https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Тернопіль 1 (UA)
-http://ott.columbus.te.ua/ternopil1/index.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", 7 Канал (UA)
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Tv 7 (UA)
-https://tv7plus.com/hls/tv7_site.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", 24 Канал (UA)
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", 33 Канал (UA)
-https://33news.org/33chanel/live/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Белгород 24 (UA)
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", НТС Севастoпoль (UA)
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Mtm (UA)
-https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Tva (UA)
-http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Pai (UA)
-https://stream.rai.ua/rai/stream.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Сфера Тв (UA)
-http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Tic (UA)
-https://cdn10.live-tv.cloud/riood/tisod-abr/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", It 3 (UA)
-https://cdn10.live-tv.cloud/it3od/it3od-abr-lq/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Віта Тв (UA)
-#EXTVLCOPT:http-referrer=https://vitatv.com.ua/live
-https://vitatv.cdn-04.cosmonova.net.ua/hls/vitatv_ua_hi/index.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Tg Тv (UA)
-http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", ITv (UA)
-http://cdn10.live-tv.od.ua:8081/itvrv/720p/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Дніпро Тв (UA)
-http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Апостроф Тв (UA)
-http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Ukraina", Htk (UA)
-https://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Rusia", Ru Тv (RU)
-https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Rusia", Tht Music (RU)
-https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Rusia", Aрис 24 (RU)
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Rusia", K 16 (RU)
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Rusia", 7 Tv (RU)
-https://v4.proofix.ru/7tv-live/mono.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Rusia", 8 Tv (RU)
-https://v4.proofix.ru/8tv-europe/mono.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Rusia", НТВ Сериал (RU)
-https://cdn.ntv.ru/th_serial/index.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Rusia", НТВ (RU)
-https://cdn.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1, tvg-id="tvr.ro" tvg-logo="" group-title="Rusia", Телеканал Дождь (RU)
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
