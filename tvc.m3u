@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1 tvg-id="A7tv.ro" tvg-logo="https://i.imgur.com/240wAAr.jpg" group-title="România" A7TV
+#EXTINF:1 tvg-id="A7tv.ro" tvg-logo="https://i.imgur.com/240wAAr.jpg" group-title="România",A7TV
 https://a7tvlive.ro/A7TV/A7TV/chunklist_w1577138789.m3u8
 #EXTINF:2 tvg-id="speranta-tv" tvg-logo="https://i.imgur.com/rNdWODH.jpg" group-title="România", Speranța TV
 https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/master.m3u8
