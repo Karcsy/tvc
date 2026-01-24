@@ -9,7 +9,8 @@ https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 #EXTINF:5 tvg-id="CredoTV.ro" tvg-logo="https://i.imgur.com/a2ApGJO.png" group-title="România", Credo TV
 http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="România", Vocea Creștinilor
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769278009/ei/2bV0ac7RC9jLi9oP2oWmoQw/ip/2a02%3A3102%3Ab214%3Af60%3A4f3%3A3579%3A3da1%3Aaa84/id/f033abd5222056b5/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr5---sn-4g5lzne6.googlevideo.com/cps/0/met/1769256409%2C/mh/bP/mm/31%2C26/mn/sn-4g5lzne6%2Csn-h0jeln7l/ms/au%2Conr/mv/m/mvi/5/pl/44/rms/au%2Cau/hfr/1/force_finished/1/demuxed/1/tts_caps/1/maudio/1/initcwndbps/2296250/bui/AW-iu_oK1zGJ7_l38CgaGe0cNxIizxMSGqatCZHAjaJUEDaKIAKx1XLBc_HY1NDoWy5P2i8gU1N3mCFR/spc/q5xjPJOZ4aB_4xQXzBvS_Ln5YOTSCSZkL4oGO4949gR-M3kPlgiWtxyCd3QbXCAw/vprv/1/go/1/rqh/5/mt/1769256045/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565681%2C51580968/dover/13/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgQTEaFhsjwDapSosiDbmQE4b73nRpXZz98C67W3WI4dgCIQD8pjw_ZfFib06VVrIBQ3hKZNdmU5mSYdFp2HCee6Qh-Q%3D%3D/lsparams/playback_host%2Ccps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/APaTxxMwRQIgImu5kuyn2cLwKeLI54Pz8JajZtn3MJk4HDK39oK-hBMCIQCi7RamkUvW56YeCTeODtyiamNzRAGEl2C9FnBInkHXgA%3D%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Biblia" tvg-logo="https://i.imgur.com/awqR267.jpg" group-title="Biblia - traducerea Cornilescu", Geneza
@@ -320,6 +321,21 @@ https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/strea
 https://hls-live-web-media.cdn01.net/default/stream_10250.m3u8?6l2BMT5JHovCOIgLCY4tz4yi6swCesmVbQF3ZK5Ffrkq7Z4zvS9Zo_oLDvRTCDCQ8SQaNGJKa4monFYe4CdcLNai2OfPS3FOdpPz0_7NeSa178HDHaW-BOZ_4n7vfwshwSFkwvPgdAl5Dnr6XYME2_n4_WhNxE9Rgu1StJIAzeHmkCrNEA3qtQt7vFzJcYwRpXvdJ8xSxkru&channel_id=10250&source=othersites&device_id=4523690541-a534fa7bb45a5ee35faff21cacceb40e&lcp=2&client_id=869065316981851594&play_id=1709920131117755
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/kyltIQp.png" group-title="Internațional", TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/chunklist_w1915005982.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International", EMI Ways Message
+https://cdnvod.panda-os.com/livehls/6776eed2063044312b6f4cb4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International", EMI Ways Music
+https://cdnvod.panda-os.com/livehls/66ba83940630440734547823/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International", EMI Ways Movies
+https://cdnvod.panda-os.com/livehls/66bdc522063044073c4fb6b4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International", EMI Ways Kids
+https://cdnvod.panda-os.com/livehls/66bdc534063044073c4fb6b5/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International", EMI Ways Youth
+https://cdnvod.panda-os.com/livehls/673360fc06304477d124c8c4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International", EMI Ways Bible
+https://cdnvod.panda-os.com/livehls/675c2af306304401bd3f5c33/master.m3u8
+
+
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/xafBx2G.png" group-title="Internațional", Light Channel Bulgaria
 https://streamer1.streamhost.org/salive/hungarian/chunklist_w78367932.m3u8
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/EH75UpK.png" group-title="Internațional", Light Channel Germany
@@ -332,6 +348,9 @@ https://streamer.terceiroanjo.com/salive/GMI3anjom/chunklist_w1625110522.m3u8
 https://streamer1.streamhost.org/salive/GMIredadvenirHD/chunklist_w323722387.m3u8
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/S1HNdjH.jpg" group-title="Internațional", Smile of the child
 https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/live-audio_1=96000-video=1000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="International", End Times
+https://2-fss-2.streamhoster.com/pl_138/205474-2073046-1/playlist.m3u8
+
 
 
 
